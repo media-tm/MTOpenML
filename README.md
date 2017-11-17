@@ -1,5 +1,6 @@
-# MTAiLearn
+# MTOpenAI
 
-DeepLearn Blog
+[https://github.com/MTMediaDev/MTOpenML](https://github.com/MTMediaDev/MTOpenML)
 
-https://mtmediadev.github.io/AiBlog/
+
+
