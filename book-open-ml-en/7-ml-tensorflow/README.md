@@ -1,4 +1,4 @@
-# MTOpenAI
+# MTOpenML
 
 ## 1 About MTOpenML
 [MTOpenML](https://github.com/MTMediaDev/MTOpenML) is OpenSource Ebook for  Mechine  Learning.
