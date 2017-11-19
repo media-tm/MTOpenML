@@ -13,7 +13,7 @@ Chapter 2: Theory Basis of Machine Learning
 * [2.4 ML and Numerical Calculation](../../book-open-ml-en/2-ml-basic/24-ml-numerical-calculation.md)
 
 ## 3 Writing Plan
-Expecting You to Jion and Writing Togethor
+Expecting You to Jion and Writing Together
 
 Teamworker --> Upload Draft Paper  --> Doulbe Check --> Formal Paper -->  Teamworker
 Teamworker --> Upload Formal Paper --> Update Schedule and Author --> merge to master branch

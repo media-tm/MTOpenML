@@ -20,4 +20,4 @@ Chapter 2 机器学习的理论基础
 * [2.4 机器学习与数值计算](../../book-open-ml-cn/2-ml-basic/24-ml-numerical-calculation.md)
 
 ## 3 Writing Plan
-Expecting You to Jion and Writing Togethor
+Expecting You to Jion and Writing Together

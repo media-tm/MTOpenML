@@ -14,7 +14,7 @@ Chapter 4: 回归降维聚类算法
 * [4.5 聚类算法(k-means)](../../book-open-ml-cn/4-ml-regression/64-ml-k-means.md)
 
 ## 3 Writing Plan
-Expecting You to Jion and Writing Togethor
+Expecting You to Jion and Writing Together
 
 Teamworker --> Upload Draft Paper  --> Doulbe Check --> Formal Paper -->  Teamworker
 Teamworker --> Upload Formal Paper --> Update Schedule and Author --> merge to master branch

@@ -13,7 +13,7 @@ Chapter 3 模型评估与选择
 * [3.4 偏差与方差](../../book-open-ml-cn/3-ml-select-model/34-ml-deviation-variance.md)
 
 ## 3 Writing Plan
-Expecting You to Jion and Writing Togethor
+Expecting You to Jion and Writing Together
 
 Teamworker --> Upload Draft Paper  --> Doulbe Check --> Formal Paper -->  Teamworker
 Teamworker --> Upload Formal Paper --> Update Schedule and Author --> merge to master branch

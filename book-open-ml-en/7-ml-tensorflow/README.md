@@ -16,7 +16,7 @@ Chapter 7： Machine Learning Examples with Tensorflow
 * [7.7 CA-Deep Learning Example](../../book-open-ml-en/7-ml-tensorflow/77-ml-deep-learn.md)
 
 ## 3 Writing Plan
-Expecting You to Jion and Writing Togethor
+Expecting You to Jion and Writing Together
 
 Teamworker --> Upload Draft Paper  --> Doulbe Check --> Formal Paper -->  Teamworker
 Teamworker --> Upload Formal Paper --> Update Schedule and Author --> merge to master branch

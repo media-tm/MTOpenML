@@ -11,7 +11,7 @@ Chapter 8: Machine Learning versus CNN
 * [8.2 Advantages and disadvantages of CNN](../../book-open-ml-en/8-ml-tensorflow/8-ml-versus/82-ml-good-cnn.md)
 
 ## 3 Writing Plan
-Expecting You to Jion and Writing Togethor
+Expecting You to Jion and Writing Together
 
 Teamworker --> Upload Draft Paper  --> Doulbe Check --> Formal Paper -->  Teamworker
 Teamworker --> Upload Formal Paper --> Update Schedule and Author --> merge to master branch

@@ -14,7 +14,7 @@ Chapter 6： Machine Learning Examples with SkLearn
 * [6.5 Clustering Algorithm-k means](book-open-ml-en/6-ml-sklearn/65-ml-k-means.md)
 
 ## 3 Writing Plan
-Expecting You to Jion and Writing Togethor
+Expecting You to Jion and Writing Together
 
 Teamworker --> Upload Draft Paper  --> Doulbe Check --> Formal Paper -->  Teamworker
 Teamworker --> Upload Formal Paper --> Update Schedule and Author --> merge to master branch

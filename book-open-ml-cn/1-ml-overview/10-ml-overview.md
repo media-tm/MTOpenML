@@ -22,4 +22,4 @@ Chapter 1: »úÆ÷Ñ§Ï°¸ÅÊö
 * [1.5 »úÆ÷Ñ§Ï°µÄ¶¥¼¶¿ªÔ´ÏîÄ¿](../../book-open-ml-cn/1-ml-overview/15-ml-open-source.md)
 
 ## 3 Writing Plan
-Expecting You to Jion and Writing Togethor
+Expecting You to Jion and Writing Together

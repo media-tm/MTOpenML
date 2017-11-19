@@ -22,4 +22,4 @@ Chapter 1: 机器学习概述
 * [1.5 机器学习的顶级开源项目](../../book-open-ml-cn/1-ml-overview/15-ml-open-source.md)
 
 ## 3 Writing Plan
-Expecting You to Jion and Writing Togethor
+Expecting You to Jion and Writing Together

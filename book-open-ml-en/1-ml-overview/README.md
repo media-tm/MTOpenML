@@ -14,7 +14,7 @@ Chapter 1: Overview of Machine Learning
 * [1.5 Open Source of Machine Learning](../../book-open-ml-en/1-ml-overview/15-ml-open-source.md)
 
 ## 3 Writing Plan
-Expecting You to Jion and Writing Togethor
+Expecting You to Jion and Writing Together
 
 ## 4 Contact Details
 * shareviews@sina.com

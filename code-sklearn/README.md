@@ -22,7 +22,7 @@ Chapter 6 机器学习实例(SkLearn)
 * [6.5 聚类算法(k-means)](../book-open-ml-cn/6-ml-sklearn/65-ml-k-means.md)
 
 ## 3 Writing Plan
-Expecting You to Jion and Writing Togethor
+Expecting You to Jion and Writing Together
 
 ## 4 Contact Details
 * shareviews@sina.com

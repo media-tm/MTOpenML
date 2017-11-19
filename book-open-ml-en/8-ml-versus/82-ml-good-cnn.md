@@ -16,4 +16,4 @@ Chapter 8: 机器学习和卷积神经网络的对决
 * [8.2 卷积神经网络的优劣](../../book-open-ml-cn/8-ml-versus/82-ml-good-cnn.md)
 
 ## 3 Writing Plan
-Expecting You to Jion and Writing Togethor
+Expecting You to Jion and Writing Together

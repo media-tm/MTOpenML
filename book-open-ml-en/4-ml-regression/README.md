@@ -14,7 +14,7 @@ Chapter 4: Regression/DR/Clustering Algorithm
 * [4.5 Clustering Algorithm-k means](../../book-open-ml-en/4-ml-regression/64-ml-k-means.md)
 
 ## 3 Writing Plan
-Expecting You to Jion and Writing Togethor
+Expecting You to Jion and Writing Together
 
 Teamworker --> Upload Draft Paper  --> Doulbe Check --> Formal Paper -->  Teamworker
 Teamworker --> Upload Formal Paper --> Update Schedule and Author --> merge to master branch

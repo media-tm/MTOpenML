@@ -35,7 +35,7 @@ Machine Learning Examples with Tensorflow
 * [7.7 CA-Deep Learning Example](77-ml-deep-learn.py)
 
 ## 3 Writing Plan
-Expecting You to Jion and Writing Togethor
+Expecting You to Jion and Writing Together
 
 ## 4 Contact Details
 * shareviews@sina.com

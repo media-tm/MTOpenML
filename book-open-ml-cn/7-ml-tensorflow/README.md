@@ -16,7 +16,7 @@ Chapter 7： 机器学习实例(Tensorflow)
 * [7.7 分类之深度学习](../../book-open-ml-cn/7-ml-tensorflow/77-ml-deep-learn.md)
 
 ## 3 Writing Plan
-Expecting You to Jion and Writing Togethor
+Expecting You to Jion and Writing Together
 
 Teamworker --> Upload Draft Paper  --> Doulbe Check --> Formal Paper -->  Teamworker
 Teamworker --> Upload Formal Paper --> Update Schedule and Author --> merge to master branch

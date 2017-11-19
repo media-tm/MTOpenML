@@ -17,7 +17,7 @@ Chapter 5： Categorization Algorithm
 * [5.8 CA-Ensemble Learning Algorithm](book-open-ml-en/5-ml-category/58-ml-ada-boost.md)
 
 ## 3 Writing Plan
-Expecting You to Jion and Writing Togethor
+Expecting You to Jion and Writing Together
 
 Teamworker --> Upload Draft Paper  --> Doulbe Check --> Formal Paper -->  Teamworker
 Teamworker --> Upload Formal Paper --> Update Schedule and Author --> merge to master branch
