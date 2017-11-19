@@ -1,14 +1,18 @@
-[MTOpenML](https://github.com/MTMediaDev/MTOpenML) is OpenSource Ebook for  Mechine  Learning.bout MTOpenML
-### [MTOpenML](https://github.com/MTMediaDev/MTOpenML) is OpenSource Ebook for  Mechine  Learning.
-### [MTOpenAI](https://github.com/MTMediaDev/MTOpenAI) is OpenSource Ebook for  Artificial Intelligence(AI/DL/CNN).
-### [MTOpenAI](https://github.com/MTMediaDev/MTOpenAI) and [MTOpenML](https://github.com/MTMediaDev/MTOpenML) are serial books.
+
+# [MTOpenML](https://github.com/MTMediaDev/MTOpenML) ML Principle Case and Outlook.
+
+## 1 About MTOpenML
+
+<br>[MTOpenML](https://github.com/MTMediaDev/MTOpenML) is OpenSource Ebook for  Mechine  Learning.</br>
+<br>[MTOpenAI](https://github.com/MTMediaDev/MTOpenAI) is OpenSource Ebook for  Artificial Intelligence(AI/DL/CNN).</br>
+<br>[MTOpenAI](https://github.com/MTMediaDev/MTOpenAI) and [MTOpenML](https://github.com/MTMediaDev/MTOpenML) are serial books.</br>
 
 ## 2 Book Content Planning(MTOpenML)
 
 MTOpenML-English Version
 
 | Writing Process | Chapter Name | Author Name | Quality Rank(0-10) |
-|-|-|-|-|
+|:----:|:----|:----:|:----:|
 |1%-writing|[1 Overview of Machine Learning](book-open-ml-en/1-ml-overview/README.md)| Martin.Cheng |☆|
 |1%-planning|[2 Theory Basis of Machine Learning](book-open-ml-en/2-ml-basic/README.md)| Martin.Cheng |☆|
 |1%-planning|[3 Model Evaluation and Selection](book-open-ml-en/3-ml-select-model/README.md)| Martin.Cheng |☆|
@@ -21,7 +25,7 @@ MTOpenML-English Version
 MTOpenML-Chinese Version
 
 | Writing Process | Chapter Name | Author Name | Quality Rank(0-10) |
-|-|-|-|-|
+|:----:|:----|:----:|:----:|
 |1%-writing|[1 机器学习概述](book-open-ml-cn/1-ml-overview/README.md)| Martin.Cheng |☆|
 |1%-planning|[2 机器学习的理论基础](book-open-ml-cn/2-ml-basic/README.md)| Martin.Cheng |☆|
 |1%-planning|[3 模型评估与选择](book-open-ml-cn/3-ml-select-model/README.md)| Martin.Cheng |☆|
