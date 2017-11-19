@@ -3,9 +3,9 @@
 
 ## 1 About MTOpenML
 
-<br>[MTOpenML](https://github.com/MTMediaDev/MTOpenML) is OpenSource Ebook for  Mechine  Learning.</br>
-<br>[MTOpenAI](https://github.com/MTMediaDev/MTOpenAI) is OpenSource Ebook for  Artificial Intelligence(AI/DL/CNN).</br>
-<br>[MTOpenAI](https://github.com/MTMediaDev/MTOpenAI) and [MTOpenML](https://github.com/MTMediaDev/MTOpenML) are serial books.</br>
+[MTOpenML](https://github.com/MTMediaDev/MTOpenML) is OpenSource Ebook for  Mechine  Learning.  
+[MTOpenAI](https://github.com/MTMediaDev/MTOpenAI) is OpenSource Ebook for  Artificial Intelligence(AI/DL/CNN).  
+[MTOpenAI](https://github.com/MTMediaDev/MTOpenAI) and [MTOpenML](https://github.com/MTMediaDev/MTOpenML) are serial books.  
 
 ## 2 Book Content Planning(MTOpenML)
 
@@ -36,10 +36,9 @@ MTOpenML-Chinese Version
 |1%-planning|[8 机器学习和卷积神经网络的对决](book-open-ml-cn/8-ml-versus/README.md)| Martin.Cheng |☆|
 
 ## 3 Writing Plan
-Expecting You to Jion and Writing Togethor
-
-Teamworker --> Upload Draft Paper  --> Doulbe Check --> Formal Paper -->  Teamworker
-Teamworker --> Upload Formal Paper --> Update Schedule and Author --> merge to master branch
+Expecting You to Jion and Writing Together  
+Teamworker --> Upload Draft Paper  --> Doulbe Check --> Formal Paper -->  Teamworker  
+Teamworker --> Upload Formal Paper --> Update Schedule and Author --> Merge to Master Branch  
 
 ## 4 Contact Details
 * shareviews@sina.com
