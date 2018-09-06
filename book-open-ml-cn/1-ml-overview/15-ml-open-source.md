@@ -14,3 +14,5 @@
 * [1.5 机器学习的顶级开源项目](./15-ml-open-source.md)
 
 ## 参考文献
+* [MTOpenML](https://github.com/media-tm/MTOpenML) is OpenSource Ebook for  Mechine  Learning.
+* [MTOpenAI](https://github.com/media-tm/MTOpenAI) is OpenSource Ebook for  Artificial Intelligence.

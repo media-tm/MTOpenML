@@ -42,8 +42,6 @@
 利用二个不同领域（源域、目标域）中的知识相似性，可以通过类比，从源域的知识（包括相似的特征和其它性质）推导出目标域的相应知识，从而实现学习。类比学习系统可以使一个已有的计算机应用系统转变为适应于新的领域，来完成原先没有设计的相类似的功能。
 
 ## 相关内容
-* [MTOpenML](https://github.com/media-tm/MTOpenML) is OpenSource Ebook for  Mechine  Learning.
-* [MTOpenAI](https://github.com/media-tm/MTOpenAI) is OpenSource Ebook for  Artificial Intelligence.
 * [1.0 机器学习简史](./10-ml-overview.md)
 * [1.1 机器学习的分类](./11-ml-classification.md)
 * [1.2 机器学习的模型](./12-ml-model.md)
@@ -52,3 +50,5 @@
 * [1.5 机器学习的顶级开源项目](./15-ml-open-source.md)
 
 ## 参考文献
+* [MTOpenML](https://github.com/media-tm/MTOpenML) is OpenSource Ebook for  Mechine  Learning.
+* [MTOpenAI](https://github.com/media-tm/MTOpenAI) is OpenSource Ebook for  Artificial Intelligence.
