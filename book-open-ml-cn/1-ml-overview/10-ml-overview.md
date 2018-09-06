@@ -1,25 +1,55 @@
-# MTOpenML
+# 机器学习简史
 
-## 1 About MTOpenML
-[MTOpenML](https://github.com/MTMediaDev/MTOpenML) is OpenSource Ebook for  Mechine  Learning.
+人类社会和自然界每时每刻都会生产大量数据，数据即信息，如果有效利用这些信息和数据，如何根据个体和机构的特定需求从海量数据中建立模型或发现有用的知识？ 现在我们有了足够的基础设施收集数据和处理数据的能力，诸如：物联网、全球导航系统、互联网、工业互联网、电信网络、移动通信网络、传感器网络、云计算、超级计算机集群。从海量数据中建立模型或发现有用的知识才能将数据矿藏变成真实的知识财富，而挖矿的工具就是机器学习。
 
-## 2 Book Content Planning
+机器学习的本质就是利用计算系统、控制系统、神经网络以及人工系统等多种工具，从数据矿藏中重构价值体系：从有限观察概括特定问题世界模型的机器学习；从观测数据挖掘有用知识的数据挖掘；从大量无序的信息到简洁有序的知识。
 
-Chapter 1: Overview of Machine Learning
-* [1.0 Overview of Machine Learning](../../book-open-ml-en/1-ml-overview/10-ml-overview.md)
-* [1.1 Category of Machine Learning](../../book-open-ml-en/1-ml-overview/11-ml-classification.md)
-* [1.2 Model of Machine Learning](../../book-open-ml-en/1-ml-overview/12-ml-model.md)
-* [1.3 Knowledge Graph for Machine Learning](../../book-open-ml-en/1-ml-overview/13-ml-knowledge-graph.md)
-* [1.4 Dataset of Machine Learning](../../book-open-ml-en/1-ml-overview/14-ml-dataset.md)
-* [1.5 Open Source of Machine Learning](../../book-open-ml-en/1-ml-overview/15-ml-open-source.md)
+假如个体和机构存在特定需求Q, 希望针对特定需求Q建立模型或发现有用的知识，从而从根本上征服该领域。数据科学家给出一个机器学习的解决方案。机器学习的解决方案如下：(1) 假设存在无限的观测对象集合，由于成本有限，计划收集有限的样本集。(2) 设计一个机器学习算法，使样本集能够得到合理的解释；(3) 对于新出现的数据集，进入到学习模型，新样本同样能够得到合理解释。上述解决方案如果可信赖，需要暗合机器学习算法的本质即： 样本集和观测对象集符合统计原理并具有相同的数据分布； 样本集能够映射到多维空间形成决策分类面；具有足够的泛化和进化能力，支持新样本，系统越来越强。
 
-Chapter 1: »úÆ÷Ñ§Ï°¸ÅÊö
-* [1.0 »úÆ÷Ñ§Ï°¸ÅÊö](../../book-open-ml-cn/1-ml-overview/10-ml-overview.md)
-* [1.1 »úÆ÷Ñ§Ï°µÄ·ÖÀà](../../book-open-ml-cn/1-ml-overview/11-ml-classification.md)
-* [1.2 »úÆ÷Ñ§Ï°µÄÄ£ÐÍ](../../book-open-ml-cn/1-ml-overview/12-ml-model.md)
-* [1.3 »úÆ÷Ñ§Ï°µÄÖªÊ¶Í¼Æ×](../../book-open-ml-cn/1-ml-overview/1-ml-overview/13-ml-knowledge-graph.md)
-* [1.4 »úÆ÷Ñ§Ï°µÄÁ÷ÐÐÊý¾Ý¼¯](../../book-open-ml-cn/1-ml-overview/14-ml-dataset.md)
-* [1.5 »úÆ÷Ñ§Ï°µÄ¶¥¼¶¿ªÔ´ÏîÄ¿](../../book-open-ml-cn/1-ml-overview/15-ml-open-source.md)
+机器学习已经有了十分广泛的应用，例如：数据挖掘、计算机视觉、自然语言处理、生物特征识别、搜索引擎、医学诊断、检测信用卡欺诈、证券市场分析、DNA序列测序、语音和手写识别、战略游戏和机器人运用。
 
-## 3 Writing Plan
-Expecting You to Jion and Writing Together
+## 1 机器学习发展历程
+
+在1949年，Hebb基于神经科学的研究，提出了机器学习的概念，希望神经网络的机制能够应用到计算机领域。
+
+在1952年，IBM的科学家Arthur Samuel在开发跳棋程序时，发现如果程序支持隐式模型时，跳棋程序能够显现若干智能特征，并创造了“machine learing”这个词。
+
+在1957年，Rosenblatt的基于神经科学的研究，提出了著名的感知器模型。Rosenblatt将感知器定义为智能系统的基本属性，无数的感知器构成一个有机智能体，向我们熟知的特定生物有机体一样。
+
+在1960年，Widrow使用梯度学习方法即最小二乘法训练感知器模型，解决了感知器模型难以训练的难题。此时，感知器模型成为最佳线性分类器之一。
+
+在1969年，Minsky提出了著名的XOR问题，感知器在这种情况下是将数据不可线性分割的。由于Minsky的地位和影响力神经网络的研究停滞了10年。
+
+在1981年，Werbos提出的多层感知器，并引入了BP(反向传播算法)神经网络架构。此后，神经网络再一次得到了快速发展。
+
+在1986年，J.R.Quinlan提出了著名的ID3算法，ID3算法核心是根据“最大信息熵增益”原则选择划分当前数据集的最好特征；ID3算法是一种贪心算法，每次选取的分割数据的特征都是当前的最佳选择，并不关心是否达到最优。。ID3后来还衍生出C4.5、CART分类决策树算法。
+
+在1995年，Vapnik 和 Cortes提出了著名的支持向量机算法，SVM拥有非常坚实的理论基础并且能得到理想的结果。
+
+在2000年，机器学习社区分为神经网络(NN)和支撑向量机(SVM)两个阵营。在当Kernelized版本的支持向量机被提出之后，SVM能够很好的完成许多任务，在此之前一直是被NN所完成的；SVM能够利用深厚的凸优化理论，泛化边界理论和针对NN模型的内核。
+
+在2001年，Leo Breiman和Adele Cutler 共同提出的一种基于决策树的集成学习算法，随机森林算法。随机森林算法的实质是基于决策树的分类器集成算法，其中每一棵树都由一个随机向量生成，森林中所有的向量都是独立同分布的。随机森林算法是机器学习算法中精确度较高的算法，能克服单个预测或分类模型的缺点，被广泛应用于经济、医学、生物等领域。
+
+在2005年，三层的NN模型强势崛起，Hinton，LeCun，Bengio，Andrew Ng和诸多大师在理论和实践上彻底激活了深度学习。深度学习能够在对象识别、语音识别、NLP等不同的任务中击败之前的技术。无论是互联网新贵还是金融公司，均在深度学习领域加大投资，以期获得高维攻击能力。
+
+## 2 机器学习的派别
+### 2.1 符号学派
+### 2.2 联结学派
+### 2.3 进化学派
+### 2.4 贝叶斯学派
+
+## 3 机器学习的未来
+
+
+## 相关内容
+* [MTOpenML](https://github.com/media-tm/MTOpenML) is OpenSource Ebook for  Mechine  Learning.
+* [MTOpenAI](https://github.com/media-tm/MTOpenAI) is OpenSource Ebook for  Artificial Intelligence.
+* [1.0 机器学习简史](./10-ml-overview.md)
+* [1.1 机器学习的分类](./11-ml-classification.md)
+* [1.2 机器学习的模型](./12-ml-model.md)
+* [1.3 机器学习的知识图谱](./13-ml-knowledge-graph.md)
+* [1.4 机器学习的流行数据集](./14-ml-dataset.md)
+* [1.5 机器学习的顶级开源项目](./15-ml-open-source.md)
+
+## 参考文献
+[机器学习发展简史](https://www.cnblogs.com/inspursu/p/4292851.html)

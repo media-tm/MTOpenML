@@ -1,23 +1,12 @@
-# MTOpenML
+# åå·®ä¸æ–¹å·®
 
-## 1 About MTOpenML
-[MTOpenML](https://github.com/MTMediaDev/MTOpenML) is OpenSource Ebook for  Mechine  Learning.
+## ç›¸å…³å†…å®¹
+* [3.0 æ¨¡å‹è¯„ä¼°ä¸é€‰æ‹©](./30-ml-evaluat-model.md)
+* [3.1 ç»éªŒè¯¯å·®ä¸è¿‡æ‹Ÿåˆ](./31-ml-loss-overfit.md)
+* [3.2 æ€§èƒ½åº¦é‡](./32-ml-performance-measure.md)
+* [3.3 äº¤å‰éªŒè¯](./33-ml-cross-validation.md)
+* [3.4 åå·®ä¸æ–¹å·®](./34-ml-deviation-variance.md)
 
-## 2 Book Content Planning
-
-Chapter 3 Model Evaluation and Selection
-* [3.0 Model Evaluation and Selection](../../book-open-ml-en/3-ml-select-model/30-ml-evaluat-model.md)
-* [3.1 Empirical Error and Overfiting](../../book-open-ml-en/3-ml-select-model/31-ml-loss-overfit.md)
-* [3.2 Performance Measure](../../book-open-ml-en/3-ml-select-modelmodelic/32-ml-performance-measure.md)
-* [3.3 Cross Validation](../../book-open-ml-en/3-ml-select-model/33-ml-cross-validation.md)
-* [3.4 Deviation Variance](../../book-open-ml-en/3-ml-select-model/34-ml-deviation-variance.md)
-
-Chapter 3 Ä£ĞÍÆÀ¹ÀÓëÑ¡Ôñ
-* [3.0 Ä£ĞÍÆÀ¹ÀÓëÑ¡Ôñ](../../book-open-ml-cn/3-ml-select-model/30-ml-evaluat-model.md)
-* [3.1 ¾­ÑéÎó²îÓë¹ıÄâºÏ](../../book-open-ml-cn/3-ml-select-model/31-ml-loss-overfit.md)
-* [3.2 ĞÔÄÜ¶ÈÁ¿](../../book-open-ml-cn/3-ml-select-modelmodelic/32-ml-performance-measure.md)
-* [3.3 ½»²æÑéÖ¤](../../book-open-ml-cn/3-ml-select-model/33-ml-cross-validation.md)
-* [3.4 Æ«²îÓë·½²î](../../book-open-ml-cn/3-ml-select-model/34-ml-deviation-variance.md)
-
-## 3 Writing Plan
-Expecting You to Jion and Writing Together
+## å‚è€ƒæ–‡çŒ®
+* [MTOpenML](https://github.com/media-tm/MTOpenML) is OpenSource Ebook for  Mechine  Learning.
+* [MTOpenAI](https://github.com/media-tm/MTOpenAI) is OpenSource Ebook for  Artificial Intelligence.
