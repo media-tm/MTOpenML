@@ -32,16 +32,20 @@
 
 按照学习策略的不同可以将机器学习算法分为演绎学习、演绎学习和类比学习等。
 
-### 2.1 演绎学习 (Learning by deduction)
+### 3.1 演绎学习 (Learning by deduction)
+
 学生所用的推理形式为演绎推理。推理从公理出发，经过逻辑变换推导出结论。这种推理是"保真"变换和特化(specialization)的过程，使学生在推理过程中可以获取有用的知识。这种学习方法包含宏操作(macro-operation)学习、知识编辑和组块(Chunking)技术。演绎推理的逆过程是归纳推理。
 
-### 2.2 演绎学习 (Learning from induction)
+### 3.2 演绎学习 (Learning from induction)
+
 归纳学习是由教师或环境提供某概念的一些实例或反例，让学生通过归纳推理得出该概念的一般描述。这种学习的推理工作量远多于示教学习和演绎学习，因为环境并不提供一般性概念描述（如公理）。从某种程度上说，归纳学习的推理量也比类比学习大，因为没有一个类似的概念可以作为"源概念"加以取用。归纳学习是最基本的，发展也较为成熟的学习方法，在人工智能领域中已经得到广泛的研究和应用。
 
-### 2.3 类比学习 (Learning by analogy)
+### 3.3 类比学习 (Learning by analogy)
+
 利用二个不同领域（源域、目标域）中的知识相似性，可以通过类比，从源域的知识（包括相似的特征和其它性质）推导出目标域的相应知识，从而实现学习。类比学习系统可以使一个已有的计算机应用系统转变为适应于新的领域，来完成原先没有设计的相类似的功能。
 
 ## 相关内容
+
 * [1.0 机器学习简史](./10-ml-overview.md)
 * [1.1 机器学习的分类](./11-ml-classification.md)
 * [1.2 机器学习的模型](./12-ml-model.md)
@@ -50,5 +54,6 @@
 * [1.5 机器学习的顶级开源项目](./15-ml-open-source.md)
 
 ## 参考文献
+
 * [MTOpenML](https://github.com/media-tm/MTOpenML) is OpenSource Ebook for  Mechine  Learning.
 * [MTOpenAI](https://github.com/media-tm/MTOpenAI) is OpenSource Ebook for  Artificial Intelligence.

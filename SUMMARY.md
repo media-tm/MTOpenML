@@ -72,6 +72,7 @@
 * [7.7 分类之深度学习](book-open-ml-cn/7-ml-tensorflow/77-ml-deep-learn.md)
 
 ## 8 机器学习和卷积神经网络的对决
+
 * [8.0 竞争的维度](book-open-ml-cn/8-ml-versus/80-ml-good-ml.md)
 * [8.1 机器学习的优劣](book-open-ml-cn/8-ml-versus/81-ml-good-ml.md)
 * [8.2 卷积神经网络的优劣](book-open-ml-cn/8-ml-versus/82-ml-good-cnn.md)
