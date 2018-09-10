@@ -71,6 +71,5 @@
 
 ## 参考文献
 
-* [MTOpenML](https://github.com/media-tm/MTOpenML) is OpenSource Ebook for  Mechine  Learning.
-* [MTOpenAI](https://github.com/media-tm/MTOpenAI) is OpenSource Ebook for  Artificial Intelligence.
+* [MTOpenML](https://github.com/media-tm/MTOpenML) is OpenSource Ebook for  ML & AI.
 * [机器学习发展简史](https://www.cnblogs.com/inspursu/p/4292851.html)
