@@ -6,14 +6,13 @@
 
 ## 2 Book Content Planning
 
-Chapter 6 机器学习实例(SkLearn)
+Chapter 7 机器学习实例(SkLearn)
 
-* [6.0 SkLearn概述](book-open-ml-cn/6-ml-sklearn/60-ml-sklearn.md)
-* [6.1 回归算法之线性回归](book-open-ml-cn/6-ml-sklearn/61-ml-linear-regression.md)
-* [6.2 回归算法之决策树 Tree](book-open-ml-cn/6-ml-sklearn/62-ml-regression-decision-tree.md)
-* [6.3 回归算法之人工神经网络](book-open-ml-cn/6-ml-sklearn/63-ml-regression-ann.md)
-* [6.4 降维算法(ICA#PCA#SVD)](book-open-ml-cn/6-ml-sklearn/64-ml-dimension-reduced.md)
-* [6.5 聚类算法(k-means)](book-open-ml-cn/6-ml-sklearn/65-ml-k-means.md)
+* [7.0 SkLearn概述](./70-sklearn-overover.md)
+* [7.1 SkLearn的数据库](./71-sklearn-dataset.md)
+* [7.2 SkLearn的回归算法](./72-sklearn-regression.md)
+* [7.3 SkLearn的分类算法](./73-sklearn-classification.md)
+* [7.4 SkLearn的聚类算法](./74-sklearn-clustering.md)
 
 ## 3 Writing Plan
 
