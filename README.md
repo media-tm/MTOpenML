@@ -46,3 +46,7 @@ Teamworker --> Upload Formal Paper --> Update Schedule and Author --> Merge to M
 
 * Open Source Licenses:Apache, MIT
 * Copyright(R) 2017 Martin.Cheng and all Participators.
+
+## 6 References
+
+* [Cmd Markdown 公式指导手册](https://www.zybuluo.com/codeep/note/163962)
