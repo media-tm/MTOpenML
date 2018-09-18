@@ -1,6 +1,7 @@
-# 3.4 Deep Neural Network(DNN)
+# Deep Neural Network(DNN)
 
-## 3.4.1 **LeNet5**
+## 1 LeNet5
+
 **LeNet5** 诞生于1994年,是最早的卷积神经网络之一,并且推动了深度学习领域的发展。自从1988年开始,在许多次成功的迭代后,这项由 Yann LeCun完成的开拓性成果被命名为**LeNet5**(参见：Gradient-Based Learning Applied to Document Recognition)。
 
 ![image](http://static.open-open.com/lib/uploadImg/20160907/20160907100307_377.jpg)
@@ -16,7 +17,7 @@
 6)层与层之间的稀疏连接矩阵避免大的计算成本  
 总体看来,这个网络是最近大量神经网络架构的起点,并且也给这个领域带来了许多灵感。
 
-## 3.4.1 AlexNet
+## 2 AlexNet
 
 2012年，Hinton的学生Alex Krizhevsky提出了深度卷积神经网络模型**AlexNet**，它可以算是LeNet的一种更深更宽的版本。**AlexNet**中包含了几个比较新的技术点，也首次在CNN中成功应用了ReLU、Dropout和LRN等Trick。同时**AlexNet**也使用了GPU进行运算加速，作者开源了他们在GPU上训练卷积神经网络的CUDA代码。**AlexNet**包含了6亿3000万个连接，6000万个参数和65万个神经元，拥有5个卷积层，其中3个卷积层后面连接了最大池化层，最后还有3个全连接层。**AlexNet**以显著的优势赢得了竞争激烈的ILSVRC 2012比赛，top-5的错误率降低至了16.4%，相比第二名的成绩26.2%错误率有了巨大的提升。**AlexNet**可以说是神经网络在低谷期后的第一次发声，确立了深度学习(深度卷积网络)在计算机视觉的统治地位，同时也推动了深度学习在语音识别、自然语言处理、强化学习等领域的拓展。
 
@@ -32,7 +33,8 @@
 
 ![image](http://www.laiyuan.com/pic/2017/02/28/i1fr4k4zngr.jpg)
 
-## **VGGNet**
+## 3 VGGNet
+
 **VGGNet**网络架构于2014年出现在Simonyan和Zisserman中的论文中,《Very Deep Convolutional Networks for Large Scale Image Recognition》。该架构仅仅使用堆放在彼此顶部、深度不断增加的3×3卷积层，并通过max pooling来减小volume规格；然后是两个4096节点的全连接层，最后是一个softmax分类器。“16”和“19”代表网络中权重层的数量(表2中的D和E列):
 在2014年的时候，16还有19层网络还是相当深的，Simonyan和Zisserman发现训练**VGGNet16**和**VGGNet19**很有难度，于是选择先训练小一些的版本(列A和列C)。这些小的网络收敛后被用来作为初始条件训练更大更深的网络——这个过程被称为预训练(pre-training)。**VGGNet**Net有两个不足：训练很慢；weights很大。由于深度以及全连接节点数量的原因，**VGGNet16**的weights超过533MB，**VGGNet19**超过574MB，这使得部署**VGGNet**很令人讨厌。虽然在许多深度学习图像分类问题中我们仍使用**VGGNet**架构，但是小规模的网络架构更受欢迎(比如SqueezeNet, GoogleNet等等)。
 ![image](http://www.laiyuan.com/pic/2017/02/28/i1fr4k4zngr.jpg)
@@ -41,12 +43,14 @@
 1 MSRA初始化,详见《Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification》
 2 权重初始化以及深度神经网络的收敛,详见《All you need is a good init, Mishkin and Matas (2015)》
 
-## ResNet-50
+## 4 ResNet-50
+
 与AlexNet、OverFeat还有VGG这些传统顺序型网络架构不同，ResNet的网络结构依赖于微架构模组(micro-architecture modules) 。
 ResNet于2015年出现在Heetal的论文《Deep Residual Learning for Image Recognition》中，它的出现很有开创性意义，证明极深的网络也可以通过标准SGD(以及一个合理的初始化函数)来训练。
 尽管ResNet比VGG16还有VGG19要深，weights却要小(102MB)，因为使用了全局平均池化(global average pooling)，而不是全连接层。
 
-## GoogLeNet Inception
+## 5 GoogLeNet Inception
+
 一般来说，提升网络性能最直接的办法就是增加网络深度和宽度，这也就意味着巨量的参数。但是，巨量参数容易产生过拟合也会大大增加计算量。
 
 文章认为解决上述两个缺点的根本方法是将全连接甚至一般的卷积都转化为稀疏连接。一方面现实生物神经系统的连接也是稀疏的，另一方面有文献1表明：对于大规模稀疏的神经网络，可以通过分析激活值的统计特性和对高度相关的输出进行聚类来逐层构建出一个最优网络。这点表明臃肿的稀疏网络可能被不失性能地简化。 虽然数学证明有着严格的条件限制，但Hebbian准则有力地支持了这一点：fire together,wire together。
@@ -65,7 +69,8 @@ Inception 结构的主要思路是怎样用密集成分来近似最优的局部�
 
 本文的主要想法其实是想通过构建密集的块结构来近似最优的稀疏结构，从而达到提高性能而又不大量增加计算量的目的。GoogleNet的caffemodel大小约50M，但性能却很优异。 
 
-## Xception
+## 6 Xception
+
 ![image](http://www.pyimagesearch.com/wp-content/uploads/2017/03/imagenet_xception_flow.png)
 Xception是被François Chollet提出的, 后者是Keras库的作者和主要维护者。
 Xception是Inception架构的扩展，用depthwise独立卷积代替Inception标准卷积。
@@ -74,8 +79,10 @@ Xception最小仅有91MB。
 
 ## 参考文献
 
-1 [GoogLeNet系列解读](http://blog.csdn.net/shuzfan/article/details/50738394)  
-2 [GoogLeNet V1:Going deeper with convolutions](https://arxiv.org/abs/1409.4842)  
-3 [GoogLeNet V1:Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)  
-4 [ImageNet: VGGNet, ResNet, Inception, and Xception with Keras](https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/?spm=5176.100239.blogcont78726.44.r8lIwj)
-5 [CNN几种经典模型比较](http://blog.csdn.net/Maxiao1204/article/details/65653781)
+- [1] Ian Goodfellow, Yoshua Bengio. [Deep Learning](http://www.deeplearningbook.org/). MIT Press. 2016.
+- [2] 焦李成等. 深度学习、优化与识别. 清华大学出版社. 2017.
+- [3] 佩德罗·多明戈斯. 终极算法-机器学习和人工智能如何重塑世界. 中信出版社. 2018.
+- [4] 雷.库兹韦尔. 人工智能的未来-揭示人类思维的奥秘.  浙江人民出版社. 2016.
+- [5] [GoogLeNet系列解读](http://blog.csdn.net/shuzfan/article/details/50738394)  
+- [6] [GoogLeNet V1:Going deeper with convolutions](https://arxiv.org/abs/1409.4842)  
+- [7] [GoogLeNet V1:Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)

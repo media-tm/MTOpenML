@@ -10,40 +10,52 @@
 [UFLDL Tutorial](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)  
 [Deep Learning](https://cs.nyu.edu/~yann/research/deep/)  
 
-## 3.5.1 优化算法
-### 3.5.1.1 梯度下降(gradient descent,GD)
+## 1 优化算法
+
+### 1.1 梯度下降(gradient descent,GD)
+
 想象你去野足但却迷了路，在漆黑的深夜你一个人被困住山谷中，你知道谷底是出口但是天太黑了根本看不清楚路。于是你确定采取一个贪心(greedy)算法：先试探在当前位置往哪个方向走下降最快(即梯度方向)，再朝着这个方向走一小步，重复这个过程直到你到达谷底。这就是梯度下降的基本思想。 
 
-梯度下降算法的性能大致取决于三个因素。  
+梯度下降算法的性能大致取决于三个因素。
+
 1. 初始位置。如果你初始位置就离谷底很近，自然很容易走到谷底。  
 2. 山谷地形。如果山谷是“九曲十八弯”，很有可能你在里面绕半天都绕不出来。  
 3. 步长。你每步迈多大，当你步子迈太小，很可能你走半天也没走多远，而当你步子迈太大，一不小心就容易撞到旁边的悬崖峭壁，或者错过了谷底。
 
-### 3.5.1.2 误差反向传播(error back-propagation，BP)
+### 1.2 误差反向传播(error back-propagation，BP)
+
 结合微积分中链式法则和算法设计中动态规划思想用于计算梯度。 直接用纸笔推导出中间某一层的梯度的数学表达式是很困难的，但链式法则告诉我们，一旦我们知道后一层的梯度，再结合后一层对当前层的导数，我们就可以得到当前层的梯度。动态规划是一个高效计算所有梯度的实现技巧，通过由高层往低层逐层计算梯度，避免了对高层梯度的重复计算。
 
-### 3.5.1.3 滑动平均(moving average)
+### 1.3 滑动平均(moving average)
+
 要前进的方向不再由当前梯度方向完全决定，而是最近几次梯度方向的滑动平均。利用滑动平均思想的优化算法有带动量(momentum)的SGD、Nesterov动量、Adam(ADAptive Momentum estimation)等。
 
-### 3.5.1.4 自适应步长
+### 1.4 自适应步长
+
 自适应步长  自适应地确定权值每一维的步长。当某一维持续震荡时，我们希望这一维的步长小一些；当某一维一直沿着相同的方向前进时，我们希望这一维的步长大一些。利用自适应步长思想的优化算法有AdaGrad、RMSProp、Adam等。
 
-## 3.5.2 权值矩阵初始化
+## 2 权值矩阵初始化
+
 权值初始化对网络优化至关重要。早年深度神经网络无法有效训练的一个重要原因就是早期人们对初始化不太重视。本节，我们介绍几个适用于深度神经网络的初始化方法。
 
-## 3.5.2.1 初始化的基本思想
+## 2.1 初始化的基本思想
+
 方差不变，即设法对权值进行初始化，使得各层神经元的方差保持不变。
 
-## 3.5.2.2 Xavier初始化
+## 2.2 Xavier初始化
+
 从高斯分布或均匀分布中对权值进行采样，使得权值的方差是1/n，其中n是输入神经元的个数。该推导假设激活函数是线性的。
 
-## 3.5.2.3 He初始化/MSRA初始化
+## 2.3 He初始化/MSRA初始化
+
 从高斯分布或均匀分布中对权值进行采样，使得权值的方差是2/n。该推导假设激活函数是ReLU。因为ReLU会将小于0的神经元置零，大致上会使一半的神经元置零，所以为了弥补丢失的这部分信息，方差要乘以2。
 
-## 3.5.2.4 批量规范化(batch-normalization，BN)
+## 2.4 批量规范化(batch-normalization，BN)
+
 每层显式地对神经元的激活值做规范化，使其具有零均值和单位方差。批量规范化使激活值的分布固定下来，这样可以使各层更加独立地进行学习。批量规范化可以使得网络对初始化和学习率不太敏感。此外，批量规范化有些许正则化的作用，但不要用其作为正则化手段。
 
 ## 3.5.3 偏差/方差(bias/variance)
+
 优化完成后，你发现网络的表现不尽如人意，这时诊断网络处于高偏差/高方差状态是对你下一步调参方向的重要指导。与经典机器学习算法有所不同，因为深度神经网络通常要处理非常高维的特征，所以网络可能同时处于高偏差/高方差的状态，即在特征空间的一些区域网络处于高偏差，而在另一些区域处于高方差。本节，我们对偏差/方差作一简要介绍。
 ![image](http://mmbiz.qpic.cn/mmbiz_png/UicQ7HgWiaUb1ARSQAmenulQMm7B6ibUjaniaicudzlGxSOTAUJnZKgiaNfco7o6W4ZOc3Ada3FDpBwYPSGkRjK9S3vQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
 
@@ -51,7 +63,8 @@
 
 **方差** 方差度量了网络的验证集误差和训练集误差的差距。高方差的网络学习能力太强，把训练集中自身独有的一些特点也当作一般规律学得，使网络不能很好的泛化(generalize)到验证集。当网络处于高方差时，通常有以下几种解决方案。1. 更多的数据。这是对高方差问题最行之有效的解决方案。2. 正则化。3. 改变网络结构。不同的网络结构对方差也会有影响。
 
-## 3.5.4 正则化(regularization)
+## 4 正则化(regularization)
+
 正则化是解决高方差问题的重要方案之一。本节，我们将对常用正则化方法做一介绍。
 
 **正则化的基本思想** 正则化的基本思想是使网络的有效大小变小。网络变小之后，网络的拟合能力随之降低，这会使网络不容易过拟合到训练集。
@@ -64,7 +77,7 @@
 
 **早停(early stopping)**  随着训练的进行，当你发现验证集误差不再变化或者开始上升时，提前停止训练。
 
-## 3.5.5 调参技巧
+## 5 调参技巧
 
 深度神经网络涉及很多的超参数，如学习率大小、L2正则化系数、动量大小、批量大小、隐层神经元数目、层数、学习率衰减率等。本节，我们介绍调参的基本技巧。
 随机搜索  由于你事先并不知道哪些超参数对你的问题更重要，因此随机搜索通常是比网格搜索(grid search)更有效的调参策略。
@@ -77,6 +90,7 @@ weight_decay = 10 ** random.uniform(-7, -1)   # From 1e-7 to 1e-1
 momentum = 1 - 10 ** random.uniform(-3, -1)   # From 0.9 to 0.999  
 
 ## 参考文献
-[1 Optimization Algorithms for Cost Functions](https://3dbabove.com/2017/11/14/optimizationalgorithms/)  
-[2 Optimization Algorithms for Cost Functions -github](https://github.com/ManuelGonzalezRivero/3dbabove)  
-[3 张皓：南京大学机器学习硕士-博客](http://lamda.nju.edu.cn/zhangh/)
+
+- [1 Optimization Algorithms for Cost Functions](https://3dbabove.com/2017/11/14/optimizationalgorithms/)
+- [2 Optimization Algorithms for Cost Functions -github](https://github.com/ManuelGonzalezRivero/3dbabove)  
+- [3 张皓：南京大学机器学习硕士-博客](http://lamda.nju.edu.cn/zhangh/)

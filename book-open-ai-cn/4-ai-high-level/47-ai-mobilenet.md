@@ -7,9 +7,10 @@ Google公司提出了一类称为MobileNets的高效模型适用于移动和嵌�
 ## 2 MobileNet的网络结构
 
 ## 3 MobileNet的创新
--  MobileNet V1 的准确率不错，速度很快
--  MobileNet V2 引入了Linear Bottleneck 和 Inverted Residual Blocks
--  采用 Depth-wise (DW) 卷积搭配 Point-wise (PW) 卷积的方式来提特征
+
+- MobileNet V1 的准确率不错，速度很快
+- MobileNet V2 引入了Linear Bottleneck 和 Inverted Residual Blocks
+- 采用 Depth-wise (DW) 卷积搭配 Point-wise (PW) 卷积的方式来提特征
 
 ## 4 MobileNet的代码实现
 

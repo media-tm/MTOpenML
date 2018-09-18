@@ -7,12 +7,14 @@
 ## 2 GAN网络的结构
 
 ## 3 GAN网络的创新
+
 - 解决梯度消失问题
 - 解决训练数据不足的问题
 
 ## 4 GAN网络的实现
 
 ## 参考文献
+
 [x] https://www.zhihu.com/question/52602529
 [x] https://zhuanlan.zhihu.com/p/31028821
 [x] https://blog.csdn.net/leceall/article/details/78551169

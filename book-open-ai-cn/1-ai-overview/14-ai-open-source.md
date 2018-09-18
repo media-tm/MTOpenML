@@ -55,3 +55,10 @@
 
 **项目地址**: http://scikit-learn.org  
 **项目简介**: Scikits-Learn是一个开源的、构建在SciPy之上用于机器学习的 Python 模块。它包括简单而高效的工具，可用于数据挖掘和数据分析，适合于任何人，可在各种情况下重复使用、构建在 NumPy、SciPy和 matplotlib 之上，遵循BSD 协议。
+
+## 参考文献
+
+- [1] Ian Goodfellow, Yoshua Bengio. [Deep Learning](http://www.deeplearningbook.org/). MIT Press. 2016.
+- [2] 焦李成等. 深度学习、优化与识别. 清华大学出版社. 2017.
+- [3] 佩德罗·多明戈斯. 终极算法-机器学习和人工智能如何重塑世界. 中信出版社. 2018.
+- [4] 雷.库兹韦尔. 人工智能的未来-揭示人类思维的奥秘.  浙江人民出版社. 2016.

@@ -7,6 +7,7 @@
 ## 2 Inception的网络结构
 
 ## 3 Inception的创新
+
 - 础卷积块定义为Inception
 - 大量使用NIN(network in network)
 

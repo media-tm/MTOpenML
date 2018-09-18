@@ -9,14 +9,14 @@ Long Short Term网络一般叫做 LSTM，是一种 RNN 特殊的类型，可以�
 ## 2 LSTM网络的结构
 
 ## 3 LSTM网络的创新
+
 - 解决梯度消失问题
 - 解决训练数据不足的问题
 
 ## 4 LSTM网络的实现
 
 ## 参考文献
+
 [x] Sepp Hochreiter; Jürgen Schmidhuber (1997). "Long short-term memory". Neural Computation. 9 (8): 1735–1780. doi:10.1162/neco.1997.9.8.1735. PMID 9377276.
-[x] Graves, Alex; Mohamed, Abdel-rahman; Hinton, Geoffrey (2013-03-22). "Speech Recognition with Deep Recurrent Neural Networks".   
-    arXiv:1303.5778
-[x] Tax, N.; Verenich, I.; La Rosa, M.; Dumas, M. (2017). "Predictive Business Process Monitoring with LSTM neural networks". 
-    arXiv:1612.02130 
+[x] Graves, Alex; Mohamed, Abdel-rahman; Hinton, Geoffrey (2013-03-22). "Speech Recognition with Deep Recurrent Neural Networks". arXiv:1303.5778
+[x] Tax, N.; Verenich, I.; La Rosa, M.; Dumas, M. (2017). "Predictive Business Process Monitoring with LSTM neural networks". arXiv:1612.02130 
