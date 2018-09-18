@@ -11,7 +11,7 @@ MTOpenML 机器学习篇
 |:----:|:----|:----:|:----:|
 |20%-writing|[1 机器学习概述](book-open-ml-cn/1-ml-overview/README.md)| Martin.Cheng |☆|
 |1%-planning|[2 机器学习的理论基础](book-open-ml-cn/2-ml-basic/README.md)| Martin.Cheng |☆|
-|1%-planning|[3 模型评估与选择](book-open-ml-cn/3-ml-select-model/README.md)| Martin.Cheng |☆|
+|1%-planning|[3 特征工程与模型选择](book-open-ml-cn/3-ml-select-model/README.md)| Martin.Cheng |☆|
 |1%-planning|[4 回归算法](book-open-ml-cn/4-ml-regression/README.md)| Martin.Cheng |☆|
 |1%-planning|[5 分类算法](book-open-ml-cn/5-ml-classification/README.md)| Martin.Cheng |☆|
 |1%-planning|[6 降维聚类算法](book-open-ml-cn/6-ml-category/README.md)| Martin.Cheng |☆|
