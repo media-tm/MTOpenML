@@ -1,6 +1,8 @@
 # 1.0 人工智能简史
 
-## 状态：草稿
+状态：草稿
+
+> 一起创作,Come on!! [Ebook-for-ML&AI](https://github.com/media-tm/MTOpenML)
 
 ## 1.0.0 AI的里程碑
 

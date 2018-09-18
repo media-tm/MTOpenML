@@ -10,10 +10,9 @@ Chapter 1: 机器学习概述
 
 * [1.0 机器学习简史](./10-ml-overview.md)
 * [1.1 机器学习的分类](./11-ml-classification.md)
-* [1.2 机器学习的模型](./12-ml-model.md)
-* [1.3 机器学习的知识图谱](./13-ml-knowledge-graph.md)
-* [1.4 机器学习的流行数据集](./14-ml-dataset.md)
-* [1.5 机器学习的顶级开源项目](./15-ml-open-source.md)
+* [1.2 机器学习的通用流程](./12-ml-general-process.md)
+* [1.3 机器学习的流行数据集](./13-ml-dataset.md)
+* [1.4 机器学习的顶级开源项目](./14-ml-open-source.md)
 
 ## 3 Writing Plan
 

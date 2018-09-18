@@ -1,5 +1,9 @@
 # 人工智能常见模型
 
+状态：草稿
+
+> 一起创作,Come on!! [Ebook-for-ML&AI](https://github.com/media-tm/MTOpenML)
+
 ## 1.2.1 Perceptron
 
 ## 1.2.2 Multilayer Perceptron

@@ -1,5 +1,7 @@
 # 机器学习的分类
 
+> 一起创作,Come on!! [Ebook-for-ML&AI](https://github.com/media-tm/MTOpenML)
+
 根据不同的概念和意图可以将机器学习算法分成若干类别。本文主要按照学习形式分类、任务目标分类和学习策略的不同分类。我们试图对机器学习算法进行分类，分类的目的在于找到机器学习算法的共性、个性和适用边界。方便我们针对特定的问题域快速评估出可行的解决方案。
 
 ## 1 学习形式分类
@@ -20,13 +22,21 @@
 
 ## 2 任务目标分类
 
-按照任务目标的不同可以将机器学习算法分为分类算法、分类算法和分类算法。
+按照任务目标的不同可以将机器学习算法分为回归算法、分类算法和聚类算法。
 
-### 2.1 分类算法
+### 2.1 回归算法
 
-### 2.2 聚类算法
+诸事有因，回归(Regression)算法通过建立变量之间的回归模型，通过学习(训练)过程得到变量与因变量之间的相关关系。回归(Regression)分析可以用于预测模型或分类模型。常见的回归算法包括：线性回归(Linear Regression)、非线性回归(Non-linear Regression)、逻辑回归(Logistic Regression)、多项式回归(Polynomial Regression)、岭回归(Ridge Regression)、套索回归(Lasso Regression)和弹性网络回归(ElasticNet Regression)。其中线性回归、非线性回归和逻辑回归最为常用。
 
-### 2.3 降维算法
+### 2.2 分类算法
+
+机器学习分为监督学习、无监督学习和半监督学习(强化学习)。无监督学习最常应用的场景是聚类(clustering)和降维(dimension reduction)。分类算法和回归算法都属于监督学习算法, 其中分类算法的目标就是：学习数据集的数据特征，并将原始数据特征映射到目标的分类类别。分类算法包括：逻辑回归(Logistic Regression, LR)、K最近邻(k-Nearest Neighbor, KNN)、朴素贝叶斯模型(Naive Bayesian Model, NBM)、隐马尔科夫模型(Hidden Markov Model)、支持向量机(Support Vector Machine)、决策树(Decision Tree)、神经网络(Neural Network)和集成学习(ada-boost)。其中集成学习(ada-boost)是一个混合分类方法。
+
+### 2.3 聚类算法
+
+机器学习分为监督学习、无监督学习和半监督学习(强化学习)。无监督学习从无标签的数据集中挖掘和发现数据的数理规律。有监督学习从有标签的数据集中挖掘和发现的数据的数理规律。最终机器学习从数据集中得到的模型具有相当的泛化能力，能够处理新的数据输入，并作出合理的预测。有监督学习和无监督学习的最大区别在于数据是否有标签。无监督学习最常应用的场景是聚类(clustering)和降维(dimension reduction)。
+
+聚类算法包括：K均值聚类(K-Means)、层次聚类(Hierarchical Clustering)和混合高斯模型(Gaussian Mixture Model)。降维算法包括：主成因分析(Principal Component Analysis)和线性判别分析(Linear Discriminant Analysis)。
 
 ## 3 学习策略分类
 
@@ -44,15 +54,8 @@
 
 利用二个不同领域（源域、目标域）中的知识相似性，可以通过类比，从源域的知识（包括相似的特征和其它性质）推导出目标域的相应知识，从而实现学习。类比学习系统可以使一个已有的计算机应用系统转变为适应于新的领域，来完成原先没有设计的相类似的功能。
 
-## 相关内容
-
-* [1.0 机器学习简史](./10-ml-overview.md)
-* [1.1 机器学习的分类](./11-ml-classification.md)
-* [1.2 机器学习的模型](./12-ml-model.md)
-* [1.3 机器学习的知识图谱](./13-ml-knowledge-graph.md)
-* [1.4 机器学习的流行数据集](./14-ml-dataset.md)
-* [1.5 机器学习的顶级开源项目](./15-ml-open-source.md)
-
 ## 参考文献
 
-* [MTOpenML](https://github.com/media-tm/MTOpenML) is OpenSource Ebook for  ML & AI.
+- [1] 周志华. 机器学习. 清华大学出版社. 2016.
+- [2] [日]杉山将. 图解机器学习. 人民邮电出版社. 2015.
+- [3] 佩德罗·多明戈斯. 终极算法-机器学习和人工智能如何重塑世界. 中信出版社. 2018.

@@ -1,5 +1,7 @@
 # 机器学习与矩阵
 
+> 一起创作,Come on!! [Ebook-for-ML&AI](https://github.com/media-tm/MTOpenML)s
+
 ## 相关内容
 
 * [2.0 机器学习的理论基础](./20-ml-basic-theory.md)
@@ -10,4 +12,6 @@
 
 ## 参考文献
 
-* [MTOpenML](https://github.com/media-tm/MTOpenML) is OpenSource Ebook for  ML & AI.
+- [1] 周志华. 机器学习. 清华大学出版社. 2016.
+- [2] [日]杉山将. 图解机器学习. 人民邮电出版社. 2015.
+- [3] 佩德罗·多明戈斯. 终极算法-机器学习和人工智能如何重塑世界. 中信出版社. 2018.
