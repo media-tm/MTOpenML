@@ -13,7 +13,6 @@ Chapter 7 机器学习实例(SkLearn)
 * [7.2 SkLearn的回归算法](./72-sklearn-regression.md)
 * [7.3 SkLearn的分类算法](./73-sklearn-classification.md)
 * [7.4 SkLearn的聚类算法](./74-sklearn-clustering.md)
-* [7.5 隐马尔可夫模型(Hidden Markov Model)](./75-hidden-markov-model.md)
 
 ## 3 Writing Plan
 
