@@ -20,8 +20,9 @@ MTOpenML 机器学习篇
 |1%-planning|[9 机器学习最佳实践](book-open-ml-cn/9-ml-versus/README.md)| Martin.Cheng |☆|
 
 MTOpenML 深度学习篇
-| Writing Process | Chapter Name | Author Name | Quality Rank\(0-10\) |
-| :---: | :--- | :---: | :---: |
+
+| Writing Process | Chapter Name | Author Name | Quality Rank(0-10) |
+|:----:|:----|:----:|:----:|
 | 80%-writing | [1 人工智能简史](book-open-ai-cn/1-ai-overview/README.md) | Martin.Cheng | ☆ |
 | 80%-planning | [2 人工智能的理论基础](book-open-ai-cn/2-ai-basic/README.md) | Martin.Cheng | ☆ |
 | 80%-planning | [3 基础AI算法](book-open-ai-cn/3-ai-basic-level/README.md) | Martin.Cheng | ☆ |
