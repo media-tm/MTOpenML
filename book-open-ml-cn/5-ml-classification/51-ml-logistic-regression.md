@@ -1,5 +1,7 @@
 # 逻辑回归(Logistic Regression)分类算法
 
+> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+
 逻辑回归(Logistic Regression)分类算法属于监督学习算法。常用分类算法包括：逻辑回归(Logistic Regression, LR)、K最近邻(k-Nearest Neighbor, KNN)、朴素贝叶斯模型(Naive Bayesian Model, NBM)、隐马尔科夫模型(Hidden Markov Model)、支持向量机(Support Vector Machine)、决策树(Decision Tree)、神经网络(Neural Network)和集成学习(ada-boost)。
 
 逻辑回归(Logistic Regression)解决问题的逻辑是：面对一个回归或者分类问题，建立代价函数，然后通过优化方法迭代求解出最优的模型参数，然后测试验证我们这个求解的模型的好坏。逻辑回归(Logistic Regression)可以用于回归或者分类问题。逻辑回归(Logistic Regression)分类算法能够解决二元分类和多元分类问题。

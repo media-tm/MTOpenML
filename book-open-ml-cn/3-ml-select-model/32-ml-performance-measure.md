@@ -1,6 +1,6 @@
 # 性能度量
 
-> 一起创作,Come on!! [Ebook-for-ML&AI](https://github.com/media-tm/MTOpenML)
+> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
 
 机器学习模型是通过学习并利用数据内部的规律与关系，去完成一个指定任务的数学模型。我们需要一系列的性能度量指标评价模型的泛化能力。不同的性能度量出发点和关注点存在差异，评判结果也有明显差别。
 

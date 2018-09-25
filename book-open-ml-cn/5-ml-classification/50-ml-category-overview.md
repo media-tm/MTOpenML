@@ -1,5 +1,7 @@
 # 分类算法概述
 
+> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+
 机器学习分为监督学习、无监督学习和半监督学习(强化学习)。无监督学习最常应用的场景是聚类(clustering)和降维(dimension reduction)。分类算法和回归算法都属于监督学习算法, 其中分类算法的目标就是：学习数据集的数据特征，并将原始数据特征映射到目标的分类类别。分类算法包括：逻辑回归(Logistic Regression, LR)、K最近邻(k-Nearest Neighbor, KNN)、朴素贝叶斯模型(Naive Bayesian Model, NBM)、隐马尔科夫模型(Hidden Markov Model)、支持向量机(Support Vector Machine)、决策树(Decision Tree)、神经网络(Neural Network)和集成学习(ada-boost)。其中集成学习(ada-boost)是一个混合分类方法。
 
 ## 如何构建分类算法

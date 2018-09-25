@@ -1,5 +1,7 @@
 # K最近邻(k-Nearest Neighbor-KNN)分类算法
 
+> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+
 K最近邻(k-Nearest Neighbor-KNN)分类算法属于监督学习算法。常用分类算法包括：逻辑回归(Logistic Regression, LR)、K最近邻(k-Nearest Neighbor, KNN)、朴素贝叶斯模型(Naive Bayesian Model, NBM)、隐马尔科夫模型(Hidden Markov Model)、支持向量机(Support Vector Machine)、决策树(Decision Tree)、神经网络(Neural Network)和集成学习(ada-boost)。
 
 1968年，Cover 和 Hart 提出 K最近邻(k-Nearest Neighbor-KNN)分类算法。其核心想法非常简单明了，确定一个临近度的度量, 相似性越高，相异性越低的数据样本，可以认为是同一个数据类别。

@@ -1,5 +1,7 @@
 # 主成因分析(Principal Component Analysis)降维算法
 
+> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+
 机器学习分为监督学习、无监督学习和半监督学习(强化学习)。无监督学习最常应用的场景是聚类(clustering)和降维(dimension reduction)。聚类算法包括：K均值聚类(K-Means)、层次聚类(Hierarchical Clustering)和混合高斯模型(Gaussian Mixture Model)。降维算法包括：主成因分析(Principal Component Analysis)和线性判别分析(Linear Discriminant Analysis)。
 
 主成因分析(Principal Component Analysis: PCA)是使用最广的降维方法。PCA顾名思义，就是找出数据里最主要的方面，用数据里最主要的方面来代替原始数据。

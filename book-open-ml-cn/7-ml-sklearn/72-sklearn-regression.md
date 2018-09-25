@@ -1,5 +1,7 @@
 # sklearn的回归算法
 
+> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+
 ## 算法概述
 
 本代码构建线性函数和多项式函数并绘图。然后在用SkLearn的线性回归(LinearRegression)模块和多项式回归(PolynomialFeatures)模块拟合上述两种曲线。

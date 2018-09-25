@@ -1,8 +1,8 @@
 # 层次聚类(Hierarchical Clustering)算法
 
+> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+
 机器学习分为监督学习、无监督学习和半监督学习(强化学习)。无监督学习最常应用的场景是聚类(clustering)和降维(dimension reduction)。聚类算法包括：K均值聚类(K-Means)、层次聚类(Hierarchical Clustering)和混合高斯模型(Gaussian Mixture Model)。降维算法包括：主成因分析(Principal Component Analysis)和线性判别分析(Linear Discriminant Analysis)。
-
-
 
 层次聚类(Hierarchical Clustering)是一种聚类算法，属于无监督学习。层次聚类通过计算不同类别数据点间的相似度来创建一棵有层次的嵌套聚类树。在聚类树中，不同类别的原始数据点是树的叶节点，树的顶层是一个聚类的根节点。创建聚类树的经典方式是：自下而上合并方法和自上而下分裂方法。
 

@@ -1,6 +1,6 @@
 # 机器学习开源项目
 
-> 一起创作,Come on!! [Ebook-for-ML&AI](https://github.com/media-tm/MTOpenML)
+> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
 
 以机器学习、人工智能、深度学习为代表的人工智能是科技研究中最热门的方向之一。像IBM、谷歌、微软、Facebook 和亚马逊等公司都在研发上投入大量的资金、或者收购那些在机器学习、神经网络、自然语言和图像处理等领域取得了进展的初创公司。人工智能是技术迭代的加速器，每家公司都希望利用人工智能增加高维攻击力和防守力。
 

@@ -1,5 +1,7 @@
 # 线性判别分析(Linear Discriminant Analysis)降维算法
 
+> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+
 机器学习分为监督学习、无监督学习和半监督学习(强化学习)。无监督学习最常应用的场景是聚类(clustering)和降维(dimension reduction)。聚类算法包括：K均值聚类(K-Means)、层次聚类(Hierarchical Clustering)和混合高斯模型(Gaussian Mixture Model)。降维算法包括：主成因分析(Principal Component Analysis)和线性判别分析(Linear Discriminant Analysis)。
 
 线性判别分析(Linear Discriminant Analysis-LDA)是一种监督学习的降维技术, 即他要求训练数据是有标签信息的数据集。主成因分析(Principal Component Analysis-PCA)是一种无监督学习的降维技术。

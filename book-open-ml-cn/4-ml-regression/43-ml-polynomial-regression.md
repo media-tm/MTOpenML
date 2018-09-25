@@ -1,5 +1,7 @@
 # 多项式回归(Polynomial Regression)算法
 
+> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+
 多项式回归(Polynomial Regression)算法属于有监督的回归(Regression)学习算法。回归(Regression)算法通过建立变量之间的回归模型，通过学习(训练)过程得到变量与因变量之间的相关关系。回归(Regression)分析可以用于预测模型或分类模型。常见的回归算法包括：线性回归(Linear Regression)、非线性回归(Non-linear Regression)、逻辑回归(Logistic Regression)、多项式回归(Polynomial Regression)、岭回归(Ridge Regression)、套索回归(Lasso Regression)和弹性网络回归(ElasticNet Regression)。其中线性回归、非线性回归和逻辑回归最为常用。
 
 很多场合线性模型无法很好的拟合目标数据曲线，这就需要引入非线性回归模型。对于非线性回归存在多种策略，第一种策略是将非线性回归转化成线性回归；第二种策略是将非线性回归转化成多项式回归。多项式回归中，加入了特征的更高次方(例如平方项或立方项)，也相当于增加了模型的自由度，用来捕获数据中非线性的变化。

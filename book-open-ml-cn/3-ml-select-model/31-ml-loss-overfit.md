@@ -1,6 +1,6 @@
 # 模型误差与过拟合
 
-> 一起创作,Come on!! [Ebook-for-ML&AI](https://github.com/media-tm/MTOpenML)
+> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
 
 误差按其来源可分为模型误差、测量误差、截断误差和舍入误差。由模型的局限性引起的误差称为模型误差。
 

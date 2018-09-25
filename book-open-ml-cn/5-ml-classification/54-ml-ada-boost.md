@@ -1,5 +1,7 @@
 # 集成学习(ada-boost)分类算法
 
+> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+
 集成学习(ada-boost)分类算法属于监督学习算法。常用分类算法包括：逻辑回归(Logistic Regression, LR)、K最近邻(k-Nearest Neighbor, KNN)、朴素贝叶斯模型(Naive Bayesian Model, NBM)、隐马尔科夫模型(Hidden Markov Model)、支持向量机(Support Vector Machine)、决策树(Decision Tree)、神经网络(Neural Network)和集成学习(ada-boost)。
 
 在实际部署场合，由于数据的多样性和复杂性，前期评估的分类模型往往不是最佳的。对此通过多种分类方法的融合即集成学习有利于可以这个缺陷，增强了分类算法的鲁棒性。集成学习(ada-boost)是一种机器学习范式，它试图通过连续调用单个的学习算法，获得不同的基学习器，然后根据规则组合这些学习器来解决同一个问题，可以显著的提高学习系统的泛化能力。

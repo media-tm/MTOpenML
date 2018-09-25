@@ -1,5 +1,7 @@
 # 人工神经网络(Artificial Neural Network)分类算法
 
+> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+
 人工神经网络(Artificial Neural Network)分类算法属于监督学习算法。常用分类算法包括：逻辑回归(Logistic Regression, LR)、K最近邻(k-Nearest Neighbor, KNN)、朴素贝叶斯模型(Naive Bayesian Model, NBM)、隐马尔科夫模型(Hidden Markov Model)、支持向量机(Support Vector Machine)、决策树(Decision Tree)、神经网络(Neural Network)和集成学习(ada-boost)。
 
 人工神经网络(Artificial Neural Network)是模拟神经元的处理信息的数学模型。神经网络包含多个层次，同层之间的神经元相互之间不进行数据通信；相邻层之间的神经元相互联接构成网络，即”神经网络”。数据信息顺着网络正向传播，误差信息逆着网络方向反向传播。
