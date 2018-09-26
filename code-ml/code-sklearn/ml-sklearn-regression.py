@@ -107,4 +107,6 @@ elif method_reg == "polynomial":
     print(mean_squared_error(hypo, curve_linear))          # MSE: 0.00055
     print(mean_squared_error(hypo_best, curve_polynomial)) # MSE: 0.61483
 
+#Adjust subgraph spacing
+plt.subplots_adjust(wspace =0.3, hspace =0.4)
 plt.show()

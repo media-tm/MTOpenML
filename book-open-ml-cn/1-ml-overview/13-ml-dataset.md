@@ -1,8 +1,8 @@
-# 机器学习常见数据集
+# ML-13:机器学习常见数据集
 
 > 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
 
-## 图像数据集
+## 1 图像数据集
 
 - [ImageNet图像数据集, 包含1400万图像](http://www.image-net.org/)
 - [Tiny图像数据集, 包含8000万的32x32图像](http://horatio.cs.nyu.edu/mit/tiny/data/index.html)
@@ -11,7 +11,7 @@
 - [ICCV-2011图像数据集, 包含2亿图像](http://cpl.cc.gatech.edu/projects/VisualSynset/)
 - [SUN图像数据集, 包含13万图像](http://people.csail.mit.edu/jxiao/SUN/)
 
-## 视频数据集
+## 2 视频数据集
 
 [CDVL(TheConsumer Digital Video Library)](http://www.cdvl.org/) 消费者数字视频库对外提供高质量的源视频序列，可供研究和开发免费使用。CDVL还托管了几个视频质量数据集，包括五个VQEG HD Phase I数据集，BVI-HD，CCRIQ，its4s和T1A1。
 
@@ -19,7 +19,7 @@
 
 IVC数据库包含图像质量评价和视频质量评价数据库。IVC数据库由法国南特大学(Université de Nantes)的南特通信与网络研究所主持构建和维护。[南特通信与网络研究所](http://ivc.univ-nantes.fr/en/)在图像&视频质量评价、离散信息表示、人类世界感知、机器学习和模式识别、网络和系统等方面具有深刻而广泛的研究。
 
-## 音频数据集
+## 3 音频数据集
 
 谷歌发布的大规模一品数据集，[AudioSet](https://github.com/audioset/ontology) 包括 632 个音频事件类的扩展类目和从YouTube视频绘制的 2084320 个人类标记的10秒声音剪辑的集合。类目被指定为事件类别的分层图，覆盖广泛的人类和动物声音，乐器和风格以及常见的日常环境声音。
 
@@ -27,7 +27,7 @@ IVC数据库包含图像质量评价和视频质量评价数据库。IVC数据�
 
 [TED-LIUM](http://www-lium.univ-lemans.fr/en/content/ted-lium-corpus)是TED Talk的音频数据集，包含1495个录音和音频会议、159848条发音词典和部分WMT12公开的语料库。
 
-## 综合数据集
+## 4 综合数据集
 
 - [Amazon公开数据集](http://aws.amazon.com/datasets)
 - [100多个有趣的数据集-CSDN](http://www.csdn.net/article/2014-06-06/2820111-100-Interesting-Data-Sets-for-Statistics)

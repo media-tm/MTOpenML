@@ -1,4 +1,4 @@
-# 人工智能的理论基础
+# ML&AI-20:人工智能的理论基础
 
 > 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
 
