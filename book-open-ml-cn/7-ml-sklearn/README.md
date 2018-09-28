@@ -9,10 +9,11 @@
 Chapter 7 机器学习实例(SkLearn)
 
 * [7.0 SkLearn概述](./70-sklearn-overover.md)
-* [7.1 SkLearn的数据库](./71-sklearn-dataset.md)
-* [7.2 SkLearn的回归算法](./72-sklearn-regression.md)
-* [7.3 SkLearn的分类算法](./73-sklearn-classification.md)
-* [7.4 SkLearn的聚类算法](./74-sklearn-clustering.md)
+* [7.1 初探机器学习的数据集(含sklearn源码)](./71-sklearn-dataset.md)
+* [7.2 机器学习的回归算法实战(含sklearn源码)](./72-sklearn-regression.md)
+* [7.3 机器学习的分类算法实战(含sklearn源码)](./73-sklearn-classification.md)
+* [7.4 机器学习的聚类算法实战(含sklearn源码)](./74-sklearn-clustering.md)
+* [7.5 机器学习的特征工程实战(含sklearn源码)](./74-sklearn-clustering.md)
 
 ## 3 Writing Plan
 
