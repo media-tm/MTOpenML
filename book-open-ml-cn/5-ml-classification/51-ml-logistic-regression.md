@@ -1,4 +1,4 @@
-# ML-51:逻辑回归(Logistic Regression)分类算法(含python源码)
+# ML-51:逻辑回归分类算法(Logistic Regression)含代码
 
 > 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
 

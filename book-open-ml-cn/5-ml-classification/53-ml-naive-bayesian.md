@@ -1,4 +1,4 @@
-# ML-53:朴素贝叶斯(Naive Bayesian, NB)分类算法(含python源码)
+# ML-53:朴素贝叶斯分类算法(Naive Bayesian, NB)含代码
 
 > 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
 
@@ -50,6 +50,8 @@ $y=argmax_{ck}P(Y=c_k)\prod_{j=1}P(X=x_j|Y=c_k)$
 - 结果解释性: 理论明确，解释性好。
 
 ## 2 算法实例
+
+[TODO, Coming Soon!]
 
 ## 3 典型应用
 

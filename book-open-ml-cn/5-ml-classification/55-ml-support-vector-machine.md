@@ -1,4 +1,4 @@
-# ML-55:支持向量机(Support Vector Machine)分类算法(含python源码)
+# ML-55:支持向量机分类算法(Support Vector Machine)含代码
 
 > 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
 
@@ -31,7 +31,11 @@
 
 ## 2 算法实例
 
+[TODO, Coming Soon!]
+
 ## 3 典型应用
+
+超参数降维和超参数分类，均可以使用支持向量机。
 
 ## 参考资料
 
@@ -39,5 +43,5 @@
 - [2] [日]杉山将. 图解机器学习. 人民邮电出版社. 2015.
 - [3] 佩德罗·多明戈斯. 终极算法-机器学习和人工智能如何重塑世界. 中信出版社. 2018.
 - [4] 李航. 统计学习方法. 2012.
-- [5] [支持向量机（SVM）——原理篇](https://zhuanlan.zhihu.com/p/31886934)
+- [5] [支持向量机(SVM)——原理篇](https://zhuanlan.zhihu.com/p/31886934)
 - [6] [理解SVM的三层境界](https://blog.csdn.net/v_july_v/article/details/7624837)

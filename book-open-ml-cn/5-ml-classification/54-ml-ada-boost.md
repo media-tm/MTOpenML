@@ -1,4 +1,4 @@
-# ML-54:集成学习(ada-boost)分类算法(含python源码)
+# ML-54:集成学习分类算法(ada-boost)(含python源码)
 
 > 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
 
@@ -30,6 +30,8 @@
 - 结果解释性: Adaboost算法是一个框架，构建弱学习器方法灵活。
 
 ## 2 算法实例
+
+[TODO, Coming Soon!]
 
 ## 3 典型应用
 
