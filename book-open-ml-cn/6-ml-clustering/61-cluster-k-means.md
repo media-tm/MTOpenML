@@ -27,7 +27,18 @@ K均值聚类(K-Means)算法的核心优势如下：
 
 ## 2 算法实例
 
-[TODO, Coming Soon!]
+sklearn.cluster.KMeans(n_clusters=8, init=’k-means++’, n_init=10, max_iter=300, tol=0.0001, precompute_distances=’auto’, verbose=0, random_state=None, copy_x=True, n_jobs=None, algorithm=’auto’)
+
+- n_clusters：数据集将被划分成多少个簇，最佳实践：多次选取并评估质量。
+- max_iter : 最大迭代次数(default: 300)
+
+请参考下面两个Sklearn官方示例
+
+- [K-means Clustering](http://scikit-learn.org/stable/auto_examples/cluster/plot_cluster_iris.html)
+- [Comparing different clustering algorithms on toy datasets](http://scikit-learn.org/stable/auto_examples/cluster/plot_cluster_comparison.html)
+
+![K均值聚类(K-Means)](../images/61-sklearn-cluster-k-means.png)
+图-1：K均值聚类(K-Means)示例,数据来源[scikit-learn](http://scikit-learn.org)
 
 ## 3 典型应用
 

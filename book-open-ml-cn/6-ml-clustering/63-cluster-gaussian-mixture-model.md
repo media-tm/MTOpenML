@@ -27,7 +27,12 @@
 
 ## 2 算法实例
 
-[TODO, Coming Soon!]
+ 高斯混合模型是概率模型，其假设所有数据点是从具有未知参数的有限数量的高斯分布的混合生成的。 高斯混合模型可以视为
+ k均值聚类，协方差结构和样本中心的混合体。 GaussianMixture用于拟合高斯模型混合的期望最大化(EM)模型，并计算出置信椭圆体，准确率和聚类数量等关键参数。GaussianMixture有不同的选项来约束估计的差分类的协方差：球形，对角线，并列或完全协方差。
+
+ Sklearn高斯混合模型(GaussianMixture)示例代码请参考[GMM covariances](http://scikit-learn.org/stable/auto_examples/mixture/plot_gmm_covariances.html)
+
+ ![高斯混合模型(GaussianMixture)](../images/63-sklearn-culster-gmm-covariances.png)
 
 ## 3 典型应用
 

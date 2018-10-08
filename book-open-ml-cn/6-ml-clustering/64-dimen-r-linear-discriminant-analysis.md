@@ -12,7 +12,7 @@
 
 线性判别分析(Linear Discriminant Analysis-LDA)基本思想是假设各个类别的样本数据符合高斯分布，这样利用LDA进行投影后，可以利用极大似然估计计算各个类别投影数据的均值和方差，进而得到该类别高斯分布的概率密度函数。当一个新的样本到来后，我们可以将它投影，然后将投影后的样本特征分别带入各个类别的高斯分布概率密度函数，计算它属于这个类别的概率，最大的概率对应的类别即为预测类别。
 
-主成因分析(Principal Component Analysis)降维算法的核心步骤如下:
+线性判别分析(Linear Discriminant Analysis-LDA)降维算法的核心步骤如下:
 
 - 计算类内散度矩阵: $S_w$;
 - 计算类间散度矩阵: $S_b$;
@@ -21,7 +21,7 @@
 - 取出原始高维度样本x(i), 进行降维计算操作，获得低维度样本: $z(i)=W^Tx(i)$;
 - 输出降维后的样本集 $D′=(z(1),z(2),...,z(m))$。
 
-主成因分析(Principal Component Analysis)降维算法的核心优势如下：
+线性判别分析(Linear Discriminant Analysis-LDA)降维算法的核心优势如下：
 
 - 计算伸缩性: LDA算法可以使用类别的先验知识，PCA无需先验知识;
 - 参数依赖性: 样本分类信息依赖均值而不是方差的时候，比PCA之类的算法较优;
@@ -31,7 +31,12 @@
 
 ## 2 算法实例
 
-[TODO, Coming Soon!]
+注意：本文中使用sklearn中的鸢尾花(yuānwěi)数据集来对特征处理功能进行说明。如果不熟悉该数据集请阅读[sklearn的数据集(含python源码)](./71-sklearn-dataset.md)并先了解一下鸢尾花(yuānwěi)数据集。
+https://blog.csdn.net/shareviews/article/details/82848530
+
+部分机器学习项目，由于数据集特征矩阵过大，导致计算量大，训练时间长的问题，因此降低特征矩阵维度也是必不可少的。常见的降维方法包括:基于L1惩罚项的模型、主成分分析法(PCA)和线性判别分析(LDA)。降维的本质就是将原始的样本映射到维度更低的样本空间中。PCA是为了让映射后的样本具有最大的发散性；而LDA是为了让映射后的样本有最好的分类性能。所以说PCA是一种无监督的降维方法，而LDA是一种有监督的降维方法。
+
+ ![线性判别分析(Linear Discriminant Analysis-LDA))](../images/64-sklearn-dimen-reduce-linear-discriminant-analysis.png)
 
 ## 3 典型应用
 

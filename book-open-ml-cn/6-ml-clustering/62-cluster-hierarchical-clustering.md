@@ -33,7 +33,19 @@
 
 ## 2 算法实例
 
-[TODO, Coming Soon!]
+sklearn.cluster.AgglomerativeClustering: 使用自底向上的聚类方法，主要有三种聚类准则：
+
+- complete(maximum) linkage: 两类间的距离用最远点距离表示。
+- avarage linkage:平均距离。
+- ward's method: 以组内平方和最小，组间平方和最大为目的。
+
+请参考下面两个Sklearn官方示例
+
+- [Comparing different hierarchical linkage methods on toy datasets](http://scikit-learn.org/stable/auto_examples/cluster/plot_linkage_comparison.html)
+- [Comparing different clustering algorithms on toy datasets](http://scikit-learn.org/stable/auto_examples/cluster/plot_cluster_comparison.html)
+
+![层次聚类(Hierarchical Clustering)](../images/62-sklearn-cluster-agglomerative-clustering.png)
+图-1：高斯混合模型(GaussianMixture)示例,数据来源[scikit-learn](http://scikit-learn.org)
 
 ## 3 典型应用
 
