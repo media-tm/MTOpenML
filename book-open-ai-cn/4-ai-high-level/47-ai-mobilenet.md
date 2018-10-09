@@ -15,4 +15,5 @@ Google公司提出了一类称为MobileNets的高效模型适用于移动和嵌�
 ## 4 MobileNet的代码实现
 
 ## 参考文献
+
 A. G. Howard, M. Zhu, B. Chen et al., “MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications,” 1704.04861, https://arxiv.org/pdf/1704.04861.pdf.

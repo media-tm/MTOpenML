@@ -15,5 +15,6 @@ ResNet [1] 成功地通过增加跨层的数据线路来允许梯度快速地到
 ## 4 ResNet的代码实现
 
 ## 参考文献
+
 [1] He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep residual learning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770-778).
 [2] He, K., Zhang, X., Ren, S., & Sun, J. (2016, October). Identity mappings in deep residual networks. In European Conference on Computer Vision (pp. 630-645). Springer, Cham.

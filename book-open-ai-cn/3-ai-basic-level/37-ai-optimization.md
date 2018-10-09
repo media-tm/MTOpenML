@@ -86,7 +86,7 @@
 
 import random  
 learning_rate = 10 ** random.uniform(-5, -1)   # From 1e-5 to 1e-1  
-weight_decay = 10 ** random.uniform(-7, -1)   # From 1e-7 to 1e-1   
+weight_decay = 10 ** random.uniform(-7, -1)   # From 1e-7 to 1e-1
 momentum = 1 - 10 ** random.uniform(-3, -1)   # From 0.9 to 0.999  
 
 ## 参考文献

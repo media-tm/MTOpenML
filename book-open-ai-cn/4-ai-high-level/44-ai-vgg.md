@@ -13,4 +13,5 @@ AlexNet在LeNet的基础上增加了三个卷积层。但作者对它们的卷�
 ## 4 VGG的代码实现
 
 ## 参考文献
+
 [1] Simonyan, K., & Zisserman, A. (2014). Very deep convolutional networks for large-scale image recognition. arXiv preprint arXiv:1409.1556.

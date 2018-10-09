@@ -1,6 +1,7 @@
 # 卷积神经网络(Convolutional Neural Network, CNN)
 
 ## 1 CNN的模型
+
 **LeNet5** 诞生于1994年,是最早的卷积神经网络之一,并且推动了深度学习领域的发展。自从1988年开始,在许多次成功的迭代后,这项由 Yann LeCun完成的开拓性成果被命名为**LeNet5**(参见：Gradient-Based Learning Applied to Document Recognition)。
 
 ![image](http://static.open-open.com/lib/uploadImg/20160907/20160907100307_377.jpg)
