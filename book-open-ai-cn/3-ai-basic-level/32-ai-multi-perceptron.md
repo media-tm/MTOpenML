@@ -11,19 +11,17 @@
 ![image](http://obmpvqs90.bkt.clouddn.com/muti-layer-perceptron.png)
 
 隐藏层中的人工神经元，也称单元(units)通常用非线性激励函数，如双曲正切函数(hyperbolic tangent function)和逻辑函数(logistic function)，公式如下所示：
-            
-```math
-f(x)=tanh(x)
-```
-```math
-f(x)=1/(1+e^-x)
-```
+
+$f(x)=tanh(x)$
+
+$f(x)=1/(1+e^{-x})$
 
 我们的目标是找到成本函数最小化的权重值。通常，MLP的成本函数是残差平方和的均值，计算公式如下所示，其中的 mm 表示训练样本的数量：
 
 ## 2 MLP的训练方法
 
-需要训练的模型参数(parameters)
+需要训练的模型参数(parameters)：
+
 - num_hidden:隐藏层节点数目 
 - activation func:隐藏层/输出层节点的激发函数 
 - weights/biases:连接权重/偏置 

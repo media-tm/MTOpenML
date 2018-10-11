@@ -1,16 +1,16 @@
-# 开源AI数据集
+# 深度学习-13:开源深度学习数据集汇总
+
+> [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
 
 ## 1 机器视觉图形图像数据集
 
 ### 1.1 Mnist
 
-下载地址：http://yann.lecun.com/exdb/mnist/index.html  
-深度学习领域的“Hello World!”，入门必备！MNIST是一个手写数字数据库，它有60000个训练样本集和10000个测试样本集，每个样本图像的宽高为28*28。
+[Mnist数据集](http://yann.lecun.com/exdb/mnist/index.html):深度学习领域的“Hello World!”，入门必备！MNIST是一个手写数字数据库，它有60000个训练样本集和10000个测试样本集，每个样本图像的宽高为28*28。
 
 ### 1.2 ImageNet
 
-下载地址：http://www.image-net.org/about-stats  
-MNIST将初学者领进了深度学习领域，而Imagenet数据集对深度学习的浪潮起了巨大的推动作用。深度学习领域大牛Hinton在2012年发表的论文《ImageNet Classification with Deep Convolutional Neural Networks》在计算机视觉领域带来了一场“革命”，此论文的工作正是基于Imagenet数据集。
+[ImageNet数据集](http://www.image-net.org/about-stats):对深度学习的浪潮起了巨大的推动作用。深度学习领域大牛Hinton在2012年发表的论文《ImageNet Classification with Deep Convolutional Neural Networks》在计算机视觉领域带来了一场“革命”，此论文的工作正是基于Imagenet数据集。
 
 Imagenet数据集有1400多万幅图片，涵盖2万多个类别；其中有超过百万的图片有明确的类别标注和图像中物体位置的标注，具体信息如下：
 
@@ -22,8 +22,7 @@ Imagenet数据集有1400多万幅图片，涵盖2万多个类别；其中有超�
 
 ### 1.3 COCO
 
-下载地址：http://mscoco.org/  
-COCO(Common Objects in Context)是一个新的图像识别、分割和图像语义数据集，它有如下特点：
+[COCO(Common Objects in Context)](http://mscoco.org/):是一个新的图像识别、分割和图像语义数据集。COCO数据集由微软赞助，其对于图像的标注信息不仅有类别、位置信息，还有对图像的语义文本描述，COCO数据集的开源使得近两三年来图像分割语义理解取得了巨大的进展，也几乎成为了图像语义理解算法性能评价的“标准”数据集。COCO数据集具有如下特点：
 
 - Object segmentation  
 - Recognition in Context  
@@ -34,17 +33,13 @@ COCO(Common Objects in Context)是一个新的图像识别、分割和图像语�
 - 5 captions per image  
 - Keypoints on 100,000 people  
 
-COCO数据集由微软赞助，其对于图像的标注信息不仅有类别、位置信息，还有对图像的语义文本描述，COCO数据集的开源使得近两三年来图像分割语义理解取得了巨大的进展，也几乎成为了图像语义理解算法性能评价的“标准”数据集。
-
 ### 1.4 CIFAR
 
-下载地址：http://www.cs.toronto.edu/~kriz/cifar.html  
-CIFAR-10包含10个类别，50,000个训练图像，彩色图像大小：32x32，10,000个测试图像。CIFAR-100与CIFAR-10类似，包含100个类，每类有600张图片，其中500张用于训练，100张用于测试；这100个类分组成20个超类。图像类别均有明确标注。CIFAR对于图像分类算法测试来说是一个非常不错的中小规模数据集。
+[CIFAR数据集](http://www.cs.toronto.edu/~kriz/cifar.html)是一个知名的图像识别数据集。CIFAR-10包含10个类别，50,000个训练图像，彩色图像大小：32x32，10,000个测试图像。CIFAR-100与CIFAR-10类似，包含100个类，每类有600张图片，其中500张用于训练，100张用于测试；这100个类分组成20个超类。图像类别均有明确标注。CIFAR对于图像分类算法测试来说是一个非常不错的中小规模数据集。
 
 ### 1.5 Open Image
 
-下载地址：https://github.com/openimages/dataset  
-Open Image是一个包含~900万张图像URL的数据集，里面的图片通过标签注释被分为6000多类。该数据集中的标签要比ImageNet（1000类）包含更真实生活的实体存在，它足够让我们从头开始训练深度神经网络。
+[Open Image](https://github.com/openimages/dataset )是一个包含~900万张图像URL的数据集，里面的图片通过标签注释被分为6000多类。该数据集中的标签要比ImageNet（1000类）包含更真实生活的实体存在，它足够让我们从头开始训练深度神经网络。
 
 ## 2 视频数据集
 
@@ -68,6 +63,11 @@ IVC数据库包含图像质量评价和视频质量评价数据库。IVC数据�
 
 - [Amazon公开数据集](http://aws.amazon.com/datasets)
 - [100多个有趣的数据集-CSDN](http://www.csdn.net/article/2014-06-06/2820111-100-Interesting-Data-Sets-for-Statistics)
+
+## 系列文章
+
+- [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
+- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
 
 ## 参考文献
 

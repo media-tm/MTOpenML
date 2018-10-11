@@ -1,28 +1,38 @@
-# 人工智能常见模型
-
-状态：草稿
+# 深度学习-12：网络模型大全(包括移动端)
 
 > 一起创作,Come on!! [Ebook-for-ML&AI](https://github.com/media-tm/MTOpenML)
 
-## 1.2.1 Perceptron
+## 1 神经网络的启蒙模型
 
-## 1.2.2 Multilayer Perceptron
+### 1.1 Perceptron
 
-## 1.2.3 MLP+SVM
+### 1.2 Multilayer Perceptron
 
-## 1.2.4 CNN
+### 1.3 MLP+SVM
 
-## 1.2.5 LeNext
+## 2 深度卷积模型
 
-## 1.2.6 AlexNet
+### 2.1 CNN
 
-## 1.2.7 GoogleNet
+### 2.2 LeNext
 
-## 1.2.X 简化的模型
-### 1.2.X.1 SqueezeNet
-### 1.2.X.2 MobileNet
-### 1.2.X.3 ShuffleNet
-### 1.2.X.4 Xception
+### 2.3 AlexNet
+
+## 3 复合型深度模型
+
+### 3.1 GoogleNet
+
+### 3.2 LSTM
+
+## 4 移动端的模型
+
+### 4.1 SqueezeNet
+
+### 4.2 MobileNet
+
+### 4.3 ShuffleNet
+
+### 4.4 Xception
 
 ## 参考文献
 

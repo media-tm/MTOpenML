@@ -1,8 +1,6 @@
-# 人工智能简史
+# 深度学习-10：人工智能简史及三剑客
 
-状态：草稿
-
-> 一起创作,Come on!! [Ebook-for-ML&AI](https://github.com/media-tm/MTOpenML)
+> [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
 
 ## 1 人工智能简史
 
@@ -24,7 +22,7 @@
 
 1952,IBM科学家Arthur.Samuel设计开发出西洋棋程序。该程序能够通过观察当前位置,并学习一个隐含的模型,从而为后续动作提供更好的指导。Samuel发现,伴随着该游戏程序运行时间的增加,其可以实现越来越好的后续指导。通过这个程序,Samuel驳倒了普罗维登斯提出的机器无法超越人类,像人类一样写代码和学习的模式。他创造了“机器学习”,并将它定义为“可以提供计算机能力而无需显式编程的研究领域”。
 
-### Timeline: 1957-罗森·布拉特 
+### Timeline: 1957-罗森·布拉特
 
 1957年,Rosenblatt基于神经感知科学背景提出了感知机(Perceptron)算法,该算法模拟人脑的运作方式。后来Widrow发明Delta学习规则，也成为最小二乘法。感知器和Delta学习规则的双剑合璧构造了极好的线性分类器。感知器算法的作用是，在不用深入理解只对一些特定生物有机体有效的未知条件的前提下，说明了通用智能系统一些基础特点。  
 感知器的热度在1969被Minskey一盆冷水泼灭了。他提出了著名的XOR问题，论证了感知器在类似XOR问题的线性不可分数据的无力，形成了当时看来几乎不可逾越的鸿沟。  
@@ -128,7 +126,7 @@ Hinton 的学生 Yan LeCun 的 LeNets深度学习网络可以被广泛应用在�
 
 机器学习的发展并不是一帆风顺的,也经历了螺旋式上升的过程,成就与坎坷并存。其中大量的研究学者的成果才有了今天人工智能的空前繁荣,是量变到质变的过程,也是内因和外因的共同结果。
 
-## 2 AI当红长老
+## 2 深度学习三剑客
 
 踌躇满志和披荆斩棘的是集大成者的共同特征。Hinton、Bengio、LeCun都是深度学习领域的先行者。蒙特利尔AI人才集中度高于世界上任何其他地方，这有Bengio不小的功劳。微软、谷歌和facebook相继在蒙特利尔建立人工智能实验室，更是证实了蒙特利尔AI人才充足的事实。谷歌招徕了Hinton、Facebook引入了LeCun、微软今年终于邀请Bengio过来做战略顾问，这三大AI巨头的行为不也从侧面证实Hinton、LeCun和Bengio三人在深度学习领域的顶尖地位。人工智能提出60周年,《Nature》杂志发布了Yann LeCun、Yoshua Bengio和Geoffrey Hinton首次合作的这篇综述文章“Deep Learning”
 
@@ -148,37 +146,38 @@ Yann LeCun是法国科学家，在人工智能社区是神一样的人物，他�
 
 然而要让计算机具备跟人类同等智商，其基础就是要让计算机学会观察，这是让它们理解这个世界的运作方式的第一步。所以训练机器如何学习是LeCun的团队最重要的工作。过去很长一段时间，他们给机器“喂”了成千上万张图片，来教会机器区分诸如“汽车”和“小狗”。不过LeCun在这个过程中也抛出了新的问题：当有大量可用样本(比如桌椅、猫狗和人)时，训练机器没有问题;但如果机器从来没有见过这些实物，它还能识别出样本吗?LeCun表示，人工智能发展的一大难题就是怎么样才能让机器掌握人类常识，这是让机器和人类自然互动的关键。想要做到这一点，它需要拥有一个内在模型，以具备预测的能力。LeCun用一个公式简洁地概括了这种人工智能系统：预测+规划=推理。
 
-**LeCun重要事迹**
+#### LeCun重要事迹
 
-* 1960年，Yann LeCun出生于法国巴黎附近。
-* 1987年，Yann LeCun在法国攻读计算机模式期间，他提出了神经网络的反向传播学习算法的早期形式。
-* 1987年，Yann LeCun参与多伦多大学Geoffrey Hinton实验室的博士后研究助理。
-* 1988年，Yann LeCun加入自适应系统研究部AT＆T贝尔实验室，研究卷积神经网络。
-* 1996年，Yann LeCun加入AT＆T实验室-研究作为图像处理研究部，研究图像和声音的卷积神经网络处理。
-* 2003年，Yann LeCun加入纽约大学（NYU），在那里他是Courant研究所计算机科学神经科学银教授，参与人工智能和机器人相关项目。
-* 2012年，Yann LeCun成为纽约大学数据科学中心的创始人。
-* 2013年，Yann LeCun出任Facebook的AI研究所负责人。
-* 2013年，Yann LeCun与Yoshua * Bengio共同创办了“国际学习代表会议”，通过他以前在其网站上提出的公开审查流程。
-* Yann LeCun是美国国家工程院院士，2014年IEEE神经网络先锋奖获得者，2015年PAMI杰出研究员奖。
+- 1960年，Yann LeCun出生于法国巴黎附近。
+- 1987年，Yann LeCun在法国攻读计算机模式期间，他提出了神经网络的反向传播学习算法的早期形式。
+- 1987年，Yann LeCun参与多伦多大学Geoffrey Hinton实验室的博士后研究助理。
+- 1988年，Yann LeCun加入自适应系统研究部AT＆T贝尔实验室，研究卷积神经网络。
+- 1996年，Yann LeCun加入AT＆T实验室-研究作为图像处理研究部，研究图像和声音的卷积神经网络处理。
+- 2003年，Yann LeCun加入纽约大学（NYU），在那里他是Courant研究所计算机科学神经科学银教授，参与人工智能和机器人相关项目。
+- 2012年，Yann LeCun成为纽约大学数据科学中心的创始人。
+- 2013年，Yann LeCun出任Facebook的AI研究所负责人。
+- 2013年，Yann LeCun与Yoshua - Bengio共同创办了“国际学习代表会议”，通过他以前在其网站上提出的公开审查流程。
+- Yann LeCun是美国国家工程院院士，2014年IEEE神经网络先锋奖获得者，2015年PAMI杰出研究员奖。
 
 ### 2.3 Yoshua Bengio
 
 Hinton的算法激活了深度神经网络，让深度神经网络在机器学习社区野蛮生长; Lecun改良了CNN,使CNN衍生出LSTM、RNN、autoencoder等众多深度神经网络算法。 Hinton是深度学习领域的哲学家，为深度学习社区提出了大方向。
 Bengio是深度学习领域的架构师，为深度学习社区设计了很多规范，框架和工具。
 
-**Yoshua Bengio重要事迹**
+#### Yoshua Bengio重要事迹
 
-* Yoshua Bengio推动了以RNN为基础实现性能卓越的word2vec和machine translation，并对RNN经典的neural language model，gradient vanishing问题有真知灼见。
-* Yoshua Bengio负责的MILA实验室提出了现代的机器学习框架Theano，其理念影响了后来的Tensorflow,PyTorch等机器学习框架。
-* Yoshua Bengio于2009年创作的《Learning Deep Architectures for AI》，讨论深度结构动机和准则;
-* Yoshua Bengio于2017年创作的《Deep learning》，讲述了深度学习的前世今生，以及深度学习需要的数学基础和当前深度学习的现状;
-* Yoshua Bengio为了防止人工智能被大公司垄断，至今没全职加入某一家公司;
-* Yoshua Bengio于2016年提出attention
-* Yoshua Bengio于2016年提出GAN
+- Yoshua Bengio推动了以RNN为基础实现性能卓越的word2vec和machine translation，并对RNN经典的neural language model，gradient vanishing问题有真知灼见。
+- Yoshua Bengio负责的MILA实验室提出了现代的机器学习框架Theano，其理念影响了后来的Tensorflow,PyTorch等机器学习框架。
+- Yoshua Bengio于2009年创作的《Learning Deep Architectures for AI》，讨论深度结构动机和准则;
+- Yoshua Bengio于2017年创作的《Deep learning》，讲述了深度学习的前世今生，以及深度学习需要的数学基础和当前深度学习的现状;
+- Yoshua Bengio为了防止人工智能被大公司垄断，至今没全职加入某一家公司;
+- Yoshua Bengio于2016年提出attention
+- Yoshua Bengio于2016年提出GAN
 
-### 2.4 Andrew Ng
+## 系列文章
 
-[Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)是美国计算机科学家。他是百度前首席科学家，领导该公司的人工智能团队。他是是斯坦福大学计算机科学系教授，他教授学生并进行有关数据挖掘和机器学习的研究。Ng也是在线教育平台Coursera的联合创始人兼董事长。
+- [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
+- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
 
 ## 参考文献(Free Digging)
 
@@ -186,7 +185,7 @@ Bengio是深度学习领域的架构师，为深度学习社区设计了很多�
 - [2] 焦李成等. 深度学习、优化与识别. 清华大学出版社. 2017.
 - [3] 佩德罗·多明戈斯. 终极算法-机器学习和人工智能如何重塑世界. 中信出版社. 2018.
 - [4] [http://www.cs.toronto.edu/~hinton/](http://www.cs.toronto.edu/~hinton/)  
-- [5] [http://yann.lecun.com/](http://yann.lecun.com/)   
+- [5] [http://yann.lecun.com/](http://yann.lecun.com/)
 - [6] [http://www.iro.umontreal.ca/~bengioy/](http://www.iro.umontreal.ca/~bengioy/)  
 - [7] [http://www.andrewng.org/](http://www.andrewng.org/)  
 - [8] [http://open.163.com/special/opencourse/machinelearning.html](http://open.163.com/special/opencourse/machinelearning.html)  
