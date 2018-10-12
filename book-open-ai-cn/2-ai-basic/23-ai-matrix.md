@@ -1,6 +1,6 @@
-# ML&AI-23:矩阵理论(L0/L1/L2范数)
+# 深度学习-23:矩阵理论(L0/L1/L2范数)
 
-> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+> [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
 
 线性代数是数学的一个分支，广泛应用于科学和工程领域。线性代数和矩阵理论是机器学习和人工智能的重要数学基础。有短板的请补课，推荐《The Matrix Cookbook》。线性代数主要涉及矩阵理论，本节围绕矩阵理论展开。
 
@@ -37,6 +37,11 @@ L2 范数称为欧几里得范数。L2 范数的经典特性是权值衰减(Weig
 ## 5 奇异值分解
 
 奇异值分解顾名思义，将矩阵分解为奇异向量和奇异值。通过奇异值分解我们会得到与特征分解相同类型的信息。
+
+## 系列文章
+
+- [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
+- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
 
 ## 参考文献
 

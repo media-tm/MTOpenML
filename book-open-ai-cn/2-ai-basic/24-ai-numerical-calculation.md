@@ -1,4 +1,6 @@
-# 数值计算
+# 深度学习-24:数值计算、梯度下降和最小二乘法
+
+> [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
 
 机器学习或人工智能中会使用大量的数值计算，使用迭代算法计算估计值来解决既定约束的数学问题，而非使用严格的解析过程推导出公式来解决数据问题。
 
@@ -15,6 +17,11 @@ $$softmax(x)_i= exp(x_i)/\sum_{n=1}^Nexp(x_i)$$
 
 假设我们希望最小化下面方程式的x值
 $$f(x)=1/2||Ax-b||_2^2$$
+
+## 系列文章
+
+- [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
+- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
 
 ## 参考文献
 
