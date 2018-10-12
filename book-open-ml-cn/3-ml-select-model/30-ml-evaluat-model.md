@@ -1,6 +1,10 @@
 # 机器学习-30:特征工程与模型选择
 
-> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+> [机器学习原理与实践(图书目录)](https://blog.csdn.net/shareviews/article/details/83030331)
+
+特征工程是模型训练的前置条件，特征工程的目的是最大限度地从原始数据中提取特征以供算法和模型使用。特征处理是特征工程的核心部分，sklearn提供了较为完整的特征处理方法，包括数据预处理，特征选择，降维等。
+
+> 告别碎片阅读，构成知识谱系。一起阅读和完善: [机器学习原理与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 ## 1 数据预处理
 

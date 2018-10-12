@@ -1,8 +1,10 @@
 # 机器学习-56:决策树分类算法(Decision Tree)(含python源码)
 
-> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+> [机器学习原理与实践(图书目录)](https://blog.csdn.net/shareviews/article/details/83030331)
 
 决策树(Decision Tree)分类算法属于监督学习算法。常用分类算法包括：逻辑回归(Logistic Regression, LR)、K最近邻(k-Nearest Neighbor, KNN)、朴素贝叶斯模型(Naive Bayesian Model, NBM)、隐马尔科夫模型(Hidden Markov Model)、支持向量机(Support Vector Machine)、决策树(Decision Tree)、神经网络(Neural Network)和集成学习(ada-boost)。
+
+> 告别碎片阅读，构成知识谱系。一起阅读和完善: [机器学习原理与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 决策树(Decision Tree)分类算法是以实例为基础的归纳学习算法，它着眼于从一组无次序、无规则的实例中推理出以决策树表示的分类规则。构造决策树的目的是找出属性和类别间的关系，用它来预测将来未知类别的记录的类别。著名的决策树包括：ID3、C4.5、C5.0和CART算法等，这些算法的决策树的结构、剪枝的方法和策略略有不同。
 

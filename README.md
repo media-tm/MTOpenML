@@ -5,7 +5,7 @@
 
 ## 2 Book Content Planning
 
-MTOpenML 机器学习篇
+### 2.1 机器学习原理与实践
 
 | Writing Process | Chapter Name | Author Name | Quality Rank(0-10) |
 |:----:|:----|:----:|:----:|
@@ -15,11 +15,11 @@ MTOpenML 机器学习篇
 |95%-planning|[4 回归算法](book-open-ml-cn/4-ml-regression/README.md)| Martin.Cheng |☆|
 |95%-planning|[5 分类算法](book-open-ml-cn/5-ml-classification/README.md)| Martin.Cheng |☆|
 |95%-planning|[6 降维聚类算法](book-open-ml-cn/6-ml-category/README.md)| Martin.Cheng |☆|
-|10%-planning|[7 机器学习实例(SkLearn)](book-open-ml-cn/7-ml-sklearn/README.md)| Martin.Cheng |☆|
+|50%-planning|[7 机器学习实例(SkLearn)](book-open-ml-cn/7-ml-sklearn/README.md)| Martin.Cheng |☆|
 |1%-planning|[8 机器学习实例(Tensorflow)](book-open-ml-cn/8-ml-tensorflow/README.md)| Martin.Cheng |☆|
-|20%-planning|[9 机器学习高级话题](book-open-ml-cn/9-ml-advanced-topics/README.md)| Martin.Cheng |☆|
+|95%-planning|[9 机器学习高级话题](book-open-ml-cn/9-ml-advanced-topics/README.md)| Martin.Cheng |☆|
 
-MTOpenML 深度学习篇
+### 2.2 深度学习原理与实践
 
 | Writing Process | Chapter Name | Author Name | Quality Rank(0-10) |
 |:----:|:----|:----:|:----:|
@@ -30,7 +30,7 @@ MTOpenML 深度学习篇
 | 10%-planning | [5 AI的高级话题](book-open-ai-cn/5-ai-pro-topic/README.md) | Martin.Cheng | ☆ |
 | 20%-planning | [6 高级MxNet案例](book-open-ai-cn/6-ai-mxnet/README.md) | Martin.Cheng | ☆ |
 | 10%-planning | [7 高级Tensorflow案例](book-open-ai-cn/7-ai-tf/README.md) | Martin.Cheng | ☆ |
-| 10%-planning | [8 AI未来已来](book-open-ai-cn/8-ai-cross-war/README.md) | Martin.Cheng | ☆ |
+| 90%-planning | [8 AI未来已来](book-open-ai-cn/8-ai-cross-war/README.md) | Martin.Cheng | ☆ |
 
 ## 3 Writing Plan
 

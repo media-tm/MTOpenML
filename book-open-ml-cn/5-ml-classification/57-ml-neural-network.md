@@ -1,10 +1,12 @@
 # 机器学习-57:人工神经网络分类算法(Artificial Neural Network)(含python源码)
 
-> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+> [机器学习原理与实践(图书目录)](https://blog.csdn.net/shareviews/article/details/83030331)
 
 人工神经网络(Artificial Neural Network)分类算法属于监督学习算法。常用分类算法包括：逻辑回归(Logistic Regression, LR)、K最近邻(k-Nearest Neighbor, KNN)、朴素贝叶斯模型(Naive Bayesian Model, NBM)、隐马尔科夫模型(Hidden Markov Model)、支持向量机(Support Vector Machine)、决策树(Decision Tree)、神经网络(Neural Network)和集成学习(ada-boost)。
 
 人工神经网络(Artificial Neural Network)是模拟神经元的处理信息的数学模型。神经网络包含多个层次，同层之间的神经元相互之间不进行数据通信；相邻层之间的神经元相互联接构成网络，即”神经网络”。数据信息顺着网络正向传播，误差信息逆着网络方向反向传播。
+
+> 告别碎片阅读，构成知识谱系。一起阅读和完善: [机器学习原理与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 2000年以前，神经网络一直被SVM算法压制，随后出现大量理论创新和应用创新，成为最热门的机器学习方法。人工神经网络(Artificial Neural Network)包括多种模型：BP网络、径向基RBF网络、Hopfield网络、随机神经网络(Boltzmann机)、竞争神经网络(Hamming网络，自组织映射网络)等。神经网络仍普遍存在收敛速度慢、计算量大、训练时间长和不可解释等缺点。
 

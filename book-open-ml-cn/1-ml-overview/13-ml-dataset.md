@@ -1,6 +1,10 @@
 # 机器学习-13:机器学习常见数据集
 
-> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+> [机器学习原理与实践(图书目录)](https://blog.csdn.net/shareviews/article/details/83030331)
+
+根据数据集类型的不同，可以分为:图像数据集、视频数据集、音频数据集和文本数据集等。根据机器学习目标和任务的不同，可以分为: 机器视觉数据数据集、NLP数据集、目标识别数据集等。
+
+> 告别碎片阅读，构成知识谱系。一起阅读和完善: [机器学习原理与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 ## 1 图像数据集
 

@@ -1,8 +1,10 @@
 # 机器学习-53:朴素贝叶斯分类算法(Naive Bayesian, NB)含代码
 
-> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+> [机器学习原理与实践(图书目录)](https://blog.csdn.net/shareviews/article/details/83030331)
 
 朴素贝叶斯(Naive Bayesian, NB)分类算法属于监督学习算法。常用分类算法包括：逻辑回归(Logistic Regression, LR)、K最近邻(k-Nearest Neighbor, KNN)、朴素贝叶斯模型(Naive Bayesian Model, NBM)、隐马尔科夫模型(Hidden Markov Model)、支持向量机(Support Vector Machine)、决策树(Decision Tree)、神经网络(Neural Network)和集成学习(ada-boost)。
+
+> 告别碎片阅读，构成知识谱系。一起阅读和完善: [机器学习原理与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 朴素贝叶斯(Naive Bayesian, NB)分类算法基于贝叶斯定理和极大似然估计对数据集分类。贝叶斯定理的强大之处在于能够根据不确定性信息作出推理和决策。当你不能确定一个事件发生的概率时，你可以依靠于该事件本质属性相关的事件发生的概率去推断该事件发生的概率。贝叶斯定理可用于贝叶斯推断: 随着信息增加，贝叶斯定理可以用于更新假设的概率。在决策理论中，贝叶斯推断与主观概率密切相关，通常被称为贝叶斯概率。
 

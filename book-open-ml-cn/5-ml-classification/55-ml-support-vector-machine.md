@@ -1,8 +1,10 @@
 # 机器学习-55:支持向量机分类算法(Support Vector Machine)含代码
 
-> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+> [机器学习原理与实践(图书目录)](https://blog.csdn.net/shareviews/article/details/83030331)
 
 支持向量机(Support Vector Machine)分类算法属于监督学习算法。常用分类算法包括：逻辑回归(Logistic Regression, LR)、K最近邻(k-Nearest Neighbor, KNN)、朴素贝叶斯模型(Naive Bayesian Model, NBM)、隐马尔科夫模型(Hidden Markov Model)、支持向量机(Support Vector Machine, SVM)、决策树(Decision Tree)、神经网络(Neural Network)和集成学习(ada-boost)。
+
+> 告别碎片阅读，构成知识谱系。一起阅读和完善: [机器学习原理与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 在1963年，Vapnik使用支持向量机(Support Vector Machine)解决模式识别问题，关键样本被认为是支持向量。在1971年，将核技巧引入到支持向量机(Support Vector Machine)解决非线性问题。在1995年，Vapnik提出基于机(Support Vector Machine)的学习理论。支持向量机（support vector machines, SVM）是一种二分类模型，它的基本模型是定义在特征空间上的间隔最大的线性分类器，间隔最大使它有别于感知机，彻底解决了非线性、高维数、局部极小点等问题。支持向量机引入了核技巧，使其支持非线性分类器。
 

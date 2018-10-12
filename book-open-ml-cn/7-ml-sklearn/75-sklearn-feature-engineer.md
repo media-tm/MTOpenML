@@ -1,12 +1,14 @@
 # 机器学习-75:机器学习的特征工程实战(含sklearn源码)
 
-> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+> [机器学习原理与实践(图书目录)](https://blog.csdn.net/shareviews/article/details/83030331)
 
 sklearn提供了丰富的特征工程库，特征工程包含:特征预处理、特征降维和特征选择。sklearn的sklearn.preprocessing库支持特征预处理；sklearn的sklearn.decomposition/sklearn.lda库库支持特征降维；sklearn的sklearn.feature_selection库来进行特征选择。
 
 > 数据和特征决定了机器学习的上限，而模型和算法只是逼近这个上限而已。
 
 顾名思义机器学习的核心目的是最大限度地从原始数据中提取特征以供算法和模型使用。特征选取失当，机器学习模型和算法再完美也无力回天。特征工程的重要性占机器学习工程项目80%的工作量。
+
+> 告别碎片阅读，构成知识谱系。一起阅读和完善: [机器学习原理与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 注意：本文中使用sklearn中的鸢尾花(yuānwěi)数据集来对特征处理功能进行说明。如果不熟悉该数据集请阅读[sklearn的数据集(含python源码)](./71-sklearn-dataset.md)并先了解一下鸢尾花(yuānwěi)数据集。
 https://blog.csdn.net/shareviews/article/details/82848530

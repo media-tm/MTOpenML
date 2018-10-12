@@ -1,6 +1,6 @@
 # 机器学习-71:初探机器学习的数据集(含sklearn源码)
 
-> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+> [机器学习原理与实践(图书目录)](https://blog.csdn.net/shareviews/article/details/83030331)
 
 ## 1 鸢尾花(iris)数据集-机器学习的helloworld
 

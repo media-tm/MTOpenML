@@ -1,8 +1,10 @@
 # 机器学习-23:矩阵理论(L0/L1/L2范数)
 
-> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+> [机器学习原理与实践(图书目录)](https://blog.csdn.net/shareviews/article/details/83030331)
 
 线性代数是数学的一个分支，广泛应用于科学和工程领域。线性代数和矩阵理论是机器学习和人工智能的重要数学基础。有短板的请补课，推荐《The Matrix Cookbook》。线性代数主要涉及矩阵理论，本节围绕矩阵理论展开。
+
+> 告别碎片阅读，构成知识谱系。一起阅读和完善: [机器学习原理与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 ## 1 标量、向量和张量
 

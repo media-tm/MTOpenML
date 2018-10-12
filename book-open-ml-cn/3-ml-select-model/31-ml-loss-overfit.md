@@ -1,8 +1,10 @@
 # 机器学习-31:模型误差与过拟合
 
-> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+> [机器学习原理与实践(图书目录)](https://blog.csdn.net/shareviews/article/details/83030331)
 
 误差按其来源可分为模型误差、测量误差、截断误差和舍入误差。由模型的局限性引起的误差称为模型误差。
+
+> 告别碎片阅读，构成知识谱系。一起阅读和完善: [机器学习原理与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 ## 1 模型误差
 
