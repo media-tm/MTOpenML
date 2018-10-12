@@ -1,4 +1,6 @@
-# 多层感知机
+# 深度学习-32:多层感知机原理
+
+> [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
 
 ## 1 MLP的模型
 
@@ -8,7 +10,7 @@
 
 输入层(input layer)由简单的输入人工神经元构成。每个输入神经元至少连接一个隐藏层(hidden layer)的人工神经元。隐藏层表示潜在的变量；层的输入和输出都不会出现在训练集中。隐藏层后面连接的是输出层(output layer)。
 
-![image](http://obmpvqs90.bkt.clouddn.com/muti-layer-perceptron.png)
+![多层感知器,Multilayer-Perceptron](../images/3-muti-layer-perceptron.png)
 
 隐藏层中的人工神经元，也称单元(units)通常用非线性激励函数，如双曲正切函数(hyperbolic tangent function)和逻辑函数(logistic function)，公式如下所示：
 
@@ -22,9 +24,9 @@ $f(x)=1/(1+e^{-x})$
 
 需要训练的模型参数(parameters)：
 
-- num_hidden:隐藏层节点数目 
-- activation func:隐藏层/输出层节点的激发函数 
-- weights/biases:连接权重/偏置 
+- num_hidden:隐藏层节点数目
+- activation func:隐藏层/输出层节点的激发函数
+- weights/biases:连接权重/偏置
 
 构造成本函数:  
 ![image](http://obmpvqs90.bkt.clouddn.com/cost_func_quadratic.png)  
@@ -34,10 +36,10 @@ $f(x)=1/(1+e^{-x})$
 
 ## 3 MLP的学习方法
 
-## 4 代码实现
+## 系列文章
 
-1 [MLP with MxNet]()  
-2 [MLP with Tensorflow]()
+- [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
+- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
 
 ## 参考文献
 

@@ -1,4 +1,6 @@
-# 基础人工智能算法
+# 深度学习-30:基础CNN模型和深度学习模型
+
+> [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
 
 ## 1 神经元
 
@@ -51,6 +53,11 @@
 - 卷积神经网络
 - 深度学习
 - 神经网络优化技巧
+
+## 系列文章
+
+- [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
+- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
 
 ## 参考文献
 
