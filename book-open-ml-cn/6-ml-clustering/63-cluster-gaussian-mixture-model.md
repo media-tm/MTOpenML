@@ -1,6 +1,6 @@
-# 混合高斯模型(Gaussian Mixture Model)聚类算法
+# 机器学习-63:混合高斯模型(Gaussian Mixture Model)聚类算法
 
-> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 机器学习分为监督学习、无监督学习和半监督学习(强化学习)。无监督学习最常应用的场景是聚类(clustering)和降维(dimension reduction)。聚类算法包括：K均值聚类(K-Means)、层次聚类(Hierarchical Clustering)和混合高斯模型(Gaussian Mixture Model)。降维算法包括：主成因分析(Principal Component Analysis)和线性判别分析(Linear Discriminant Analysis)。
 
@@ -38,6 +38,12 @@
 
 - 用户画像: 在电子商务、新闻客户端、视频客户端通过对用户行为数据的聚类分析，可以准确刻画用户画像。精准的用户画像，对于优化内容推送，内容搜索，广告分发具有重大意义。
 - 地理信息: 对于地域性比较强的领域，诸如：汽车保险、个人意外险、房屋租赁和二手房交易等。从用户数据中聚类出此类信息，能够在上述领域充分匹配用户和产品，实现精准营销。
+
+## 系列文章
+
+- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
+- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 ## 参考资料
 

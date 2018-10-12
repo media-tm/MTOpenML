@@ -1,6 +1,6 @@
-# 层次聚类(Hierarchical Clustering)算法
+# 机器学习-62:层次聚类算法(Hierarchical Clustering)
 
-> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 机器学习分为监督学习、无监督学习和半监督学习(强化学习)。无监督学习最常应用的场景是聚类(clustering)和降维(dimension reduction)。聚类算法包括：K均值聚类(K-Means)、层次聚类(Hierarchical Clustering)和混合高斯模型(Gaussian Mixture Model)。降维算法包括：主成因分析(Principal Component Analysis)和线性判别分析(Linear Discriminant Analysis)。
 
@@ -50,6 +50,12 @@ sklearn.cluster.AgglomerativeClustering: 使用自底向上的聚类方法，主
 ## 3 典型应用
 
 在企业架构、社会组织架构和政府组织架构中，具有非常明显的层次性，分层次是一种先进的思维，推动着组织能力向专业化分工，整体上提高了组织的能力。可以用一个树状网络描述类似的组织架构，一般通过给定网络的拓扑结构定义网络节点间的相似性或距离，然后采用单连接层次聚类或全连接层次聚类将网络节点组成一个树状图层次结构。树的叶节点表示网络节点，由相似或距离接近的子节点合并而得到父节点。
+
+## 系列文章
+
+- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
+- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 ## 参考文献
 

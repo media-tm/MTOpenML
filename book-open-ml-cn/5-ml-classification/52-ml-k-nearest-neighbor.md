@@ -1,6 +1,6 @@
-# ML-52:K最近邻分类算法(k-Nearest Neighbor-KNN)含代码
+# 机器学习-52:K最近邻分类算法(k-Nearest Neighbor-KNN)含代码
 
-> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 K最近邻(k-Nearest Neighbor-KNN)分类算法属于监督学习算法。常用分类算法包括：逻辑回归(Logistic Regression, LR)、K最近邻(k-Nearest Neighbor, KNN)、朴素贝叶斯模型(Naive Bayesian Model, NBM)、隐马尔科夫模型(Hidden Markov Model)、支持向量机(Support Vector Machine)、决策树(Decision Tree)、神经网络(Neural Network)和集成学习(ada-boost)。
 
@@ -35,6 +35,12 @@ K最近邻(k-Nearest Neighbor-KNN)分类算法的核心优势如下：
 ## 3 典型应用
 
 K最近邻(k-Nearest Neighbor-KNN)分类算法广泛应用于字符识别、文本分类、图像识别等领域。
+
+## 系列文章
+
+- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
+- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 ## 参考资料
 

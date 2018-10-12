@@ -1,6 +1,6 @@
-# ML-71:初探机器学习的数据集(含sklearn源码)
+# 机器学习-71:初探机器学习的数据集(含sklearn源码)
 
-> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 ## 1 鸢尾花(iris)数据集-机器学习的helloworld
 
@@ -64,6 +64,12 @@ plt.show()
 |load_linnerud([return_X_y])|Load and return the linnerud dataset (multivariate regression).|
 |load_wine([return_X_y])|Load and return the wine dataset (classification).|
 |load_breast_cancer([return_X_y])|Load and return the breast cancer wisconsin dataset.|
+
+## 系列文章
+
+- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
+- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 ## 参考资料
 

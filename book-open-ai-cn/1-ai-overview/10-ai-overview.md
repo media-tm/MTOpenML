@@ -1,6 +1,6 @@
 # 深度学习-10：人工智能简史及三剑客
 
-> [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
+> [CSDN专栏: 机机器学习原理与实践](https://blog.csdn.net/column/details/27839.html)
 
 ## 1 人工智能简史
 
@@ -176,8 +176,9 @@ Bengio是深度学习领域的架构师，为深度学习社区设计了很多�
 
 ## 系列文章
 
-- [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
 - [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
+- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 ## 参考文献(Free Digging)
 

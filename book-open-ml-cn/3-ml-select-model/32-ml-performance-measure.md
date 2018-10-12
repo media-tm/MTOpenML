@@ -1,6 +1,6 @@
-# ML-32:性能度量
+# 机器学习-32:性能度量
 
-> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 机器学习模型是通过学习并利用数据内部的规律与关系，去完成一个指定任务的数学模型。我们需要一系列的性能度量指标评价模型的泛化能力。不同的性能度量出发点和关注点存在差异，评判结果也有明显差别。
 
@@ -56,6 +56,12 @@ $MSE(y, \hat{y_i})=\sqrt{\frac{1}{m}\sum_{m=0}^{m}(y_i-{\hat{y_i}})^2}$
 - [3.1 经验误差与过拟合](./31-ml-loss-overfit.md)
 - [3.2 性能度量](./32-ml-performance-measure.md)
 - [3.3 偏差与方差](./33-ml-deviation-variance.md)
+
+## 系列文章
+
+- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
+- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 ## 参考文献
 

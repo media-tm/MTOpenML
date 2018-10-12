@@ -1,6 +1,6 @@
-# 聚类/降维算法
+# 机器学习-60:聚类/降维算法
 
-> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 机器学习分为监督学习、无监督学习和半监督学习(强化学习)。无监督学习从无标签的数据集中挖掘和发现数据的数理规律。有监督学习从有标签的数据集中挖掘和发现的数据的数理规律。最终机器学习从数据集中得到的模型具有相当的泛化能力，能够处理新的数据输入，并作出合理的预测。有监督学习和无监督学习的最大区别在于数据是否有标签。无监督学习最常应用的场景是聚类(clustering)和降维(dimension reduction)。
 
@@ -9,6 +9,12 @@
 聚类算法包括：K均值聚类(K-Means)、层次聚类(Hierarchical Clustering)和混合高斯模型(Gaussian Mixture Model)。降维算法包括：主成因分析(Principal Component Analysis)和线性判别分析(Linear Discriminant Analysis)。
 
 聚类算法和降维算法遵循共同的模式: 给定一个指定的无标签的数据集，训练出一个能描述这些数据规律的模型(并期望潜在过程能生成数据)。训练过程通常要反复迭代，直到无法再优化参数获得更贴合数据的模型为止。
+
+## 系列文章
+
+- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
+- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 ## 参考资料
 

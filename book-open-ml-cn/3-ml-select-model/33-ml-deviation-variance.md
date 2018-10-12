@@ -1,6 +1,6 @@
-# ML-33:偏差与方差
+# 机器学习-33:偏差与方差
 
-> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 偏差度量了学习算法的期望预测与真实结果的偏离程度，刻画了学习算法本身的拟合能力。方差度量了同样大小的训练集的变动所导致的学习性能的变化，刻画了数据扰动所造成的影响。噪声表达了当前任务上任何学习算法所能达到的期望泛化误差的下界，也就是最小值。泛化误差可以分解为偏差、方差和噪声之和。
 
@@ -38,6 +38,12 @@ $DIFF(y, \hat{y_i})=(y_i-{\hat{y_i}})^2$
 - [3.1 经验误差与过拟合](./31-ml-loss-overfit.md)
 - [3.2 性能度量](./32-ml-performance-measure.md)
 - [3.3 偏差与方差](./33-ml-deviation-variance.md)
+
+## 系列文章
+
+- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
+- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 ## 参考文献
 

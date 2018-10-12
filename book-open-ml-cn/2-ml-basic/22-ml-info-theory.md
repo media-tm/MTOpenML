@@ -1,6 +1,6 @@
-# ML&AI-22:信息论和信息熵
+# 机器学习-22:信息论和信息熵
 
-> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 熵的概念最早起源于物理学，用于度量一个热力学系统的无序程度。在信息论里则叫信息量,即熵是对不确定性的度量。从控制论的角度来看，应叫不确定性。信息论的创始人香农在其著作《通信的数学理论》中提出了建立在概率统计模型上的信息度量。他把信息定义为“用来消除不确定性的东西”。在信息世界，熵越高，则能传输越多的信息，熵越低，则意味着传输的信息越少。
 
@@ -90,7 +90,13 @@ $$H_s = \sum_{i=1}^n p_i I_e = -\sum_{i=1}^n p_i \log_2 p_i$$
 1、熵均大于等于零，即，H_s \ge 0  
 2、设N是系统S内的事件总数，则熵H_s \le log_2N。当且仅当p1=p2=...=pn时，等号成立，此时系统S的熵最大。  
 3、联合熵：H(X,Y) \le H(X) + H(Y)，当且仅当X，Y在统计学上相互独立时等号成立。  
-4、条件熵：H(X|Y) = H(X,Y) - H(Y) \le H(X)，当且仅当X，Y在统计学上相互独立时等号成立。  
+4、条件熵：H(X|Y) = H(X,Y) - H(Y) \le H(X)，当且仅当X，Y在统计学上相互独立时等号成立。 
+
+## 系列文章
+
+- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
+- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 ## 参考文献
 

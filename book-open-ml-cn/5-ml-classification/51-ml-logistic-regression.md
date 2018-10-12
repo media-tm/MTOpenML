@@ -1,6 +1,6 @@
-# ML-51:逻辑回归分类算法(Logistic Regression)含代码
+# 机器学习-51:逻辑回归分类算法(Logistic Regression)含代码
 
-> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 逻辑回归(Logistic Regression)分类算法属于监督学习算法。常用分类算法包括：逻辑回归(Logistic Regression, LR)、K最近邻(k-Nearest Neighbor, KNN)、朴素贝叶斯模型(Naive Bayesian Model, NBM)、隐马尔科夫模型(Hidden Markov Model)、支持向量机(Support Vector Machine)、决策树(Decision Tree)、神经网络(Neural Network)和集成学习(ada-boost)。
 
@@ -36,6 +36,12 @@ sigmoid的函数输出是介于(0，1)之间的，中间值是0.5; hθ(x)<0.5则
 ## 3 典型应用
 
 在医学、社会学和统计学等方面有广泛用途。例如可以分析癌症和年龄之间的规律；可以分析早恋的社会学规律；可以分析个税收入的地域差异等。
+
+## 系列文章
+
+- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
+- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 ## 参考资料
 

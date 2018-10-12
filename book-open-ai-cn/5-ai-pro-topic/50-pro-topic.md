@@ -1,4 +1,6 @@
-# 5.0 AI高级话题
+# 深度学习-50:展望深度学习的未来
+
+> [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
 
 由于算力和理论的突破，卷积神经网络(Convolutional Neural Networks)在很多领域开花结果。本章介绍相关领域进展。
 
@@ -77,6 +79,11 @@ Siri，Alexa，Google Assistant和Cortana，由最大的几家技术公司开发
 - 仿生新皮质在改造世界的过程中极其重要；
 - 信仰对人类和人工智能同等重要；
 - 进化创造大脑的原因是遇见未来。
+
+## 系列文章
+
+- [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
+- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
 
 ## 参考文献
 

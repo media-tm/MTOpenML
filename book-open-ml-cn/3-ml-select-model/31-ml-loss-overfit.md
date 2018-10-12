@@ -1,6 +1,6 @@
-# ML-31:模型误差与过拟合
+# 机器学习-31:模型误差与过拟合
 
-> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 误差按其来源可分为模型误差、测量误差、截断误差和舍入误差。由模型的局限性引起的误差称为模型误差。
 
@@ -42,6 +42,12 @@ R2被广泛用于衡量模型的拟合程度。首先对模型进行训练，然
 - [3.1 经验误差与过拟合](./31-ml-loss-overfit.md)
 - [3.2 性能度量](./32-ml-performance-measure.md)
 - [3.3 偏差与方差](./33-ml-deviation-variance.md)
+
+## 系列文章
+
+- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
+- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 ## 参考文献
 

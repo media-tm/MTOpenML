@@ -1,6 +1,6 @@
-# ML-75:机器学习的特征工程实战(含sklearn源码)
+# 机器学习-75:机器学习的特征工程实战(含sklearn源码)
 
-> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 sklearn提供了丰富的特征工程库，特征工程包含:特征预处理、特征降维和特征选择。sklearn的sklearn.preprocessing库支持特征预处理；sklearn的sklearn.decomposition/sklearn.lda库库支持特征降维；sklearn的sklearn.feature_selection库来进行特征选择。
 
@@ -247,6 +247,12 @@ LDA(n_components=2).fit_transform(iris.data, iris.target)
 ```
 
 ![鸢尾花(iris)数据集的特征降维](../images/7-feature-reduction.png)
+
+## 系列文章
+
+- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
+- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 ## 参考资料
 

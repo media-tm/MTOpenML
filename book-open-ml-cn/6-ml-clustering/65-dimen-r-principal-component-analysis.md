@@ -1,6 +1,6 @@
-# 主成因分析(Principal Component Analysis)降维算法
+# 机器学习-65:主成因分析(Principal Component Analysis)降维算法
 
-> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 机器学习分为监督学习、无监督学习和半监督学习(强化学习)。无监督学习最常应用的场景是聚类(clustering)和降维(dimension reduction)。聚类算法包括：K均值聚类(K-Means)、层次聚类(Hierarchical Clustering)和混合高斯模型(Gaussian Mixture Model)。降维算法包括：主成因分析(Principal Component Analysis)和线性判别分析(Linear Discriminant Analysis)。
 
@@ -51,6 +51,12 @@ https://blog.csdn.net/shareviews/article/details/82848530
 美国的统计学家Stone在1947年关于国民经济的研究是一项十分著名的工作。他曾利用美国1929年到1938年各年数据，得到了17个反映国民收入与支出的变量要素，例如雇主补贴、消费资料和生产资料、纯公共支出、净增库存、股息、利息、外贸平衡等等。在进行主成因分析(PCA)之后，竟然以97.4%的精度，用3个新变量就取代了原先的17个变量指标。根据经济学知识，Stone将这3个新变量分别命名为总收入F1，总收入变化率F2 和经济发展(或者衰退)趋势F3。
 
 数据分析软件SPSS和MatLab等都具有主成因分析(PCA)模块，他们通过计算协方差矩阵和特征值矩阵、特征向量的函数等，来实现PCA分析。
+
+## 系列文章
+
+- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
+- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 ## 参考资料
 

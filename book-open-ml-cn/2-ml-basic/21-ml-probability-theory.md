@@ -1,6 +1,6 @@
-# ML&AI-21:概率论基础
+# 机器学习-21:概率论基础
 
-> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 本章讨论概率论，在机器学习或人工智能领域中，智能系统往往需要处理不确定性或随机数据。我们需要借助概率论，从不确定性关系中寻找确定性规律，为我们在不确定性存在的情况下进行推理提供了工具集。在人工智能领域，概率论提供了系统方法能够指导AI系统如何推理，也能从理论上辅助我们分析AI系统的行为。
 
@@ -72,7 +72,13 @@ $$p(x, \lambda)=\lambda exp(-\lambda)$$
 
 贝叶斯公式可以从条件概率公式直接导出，这里给出结论。该公式由Thomas Bayes牧师最早提出。
 
-$$P(x|y) = \frac{P(x) P(y|x)}{P(y)}$$  
+$$P(x|y) = \frac{P(x) P(y|x)}{P(y)}$$
+
+## 系列文章
+
+- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
+- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 ## 参考文献
 

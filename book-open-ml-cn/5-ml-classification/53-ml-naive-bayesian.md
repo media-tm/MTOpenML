@@ -1,6 +1,6 @@
-# ML-53:朴素贝叶斯分类算法(Naive Bayesian, NB)含代码
+# 机器学习-53:朴素贝叶斯分类算法(Naive Bayesian, NB)含代码
 
-> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 朴素贝叶斯(Naive Bayesian, NB)分类算法属于监督学习算法。常用分类算法包括：逻辑回归(Logistic Regression, LR)、K最近邻(k-Nearest Neighbor, KNN)、朴素贝叶斯模型(Naive Bayesian Model, NBM)、隐马尔科夫模型(Hidden Markov Model)、支持向量机(Support Vector Machine)、决策树(Decision Tree)、神经网络(Neural Network)和集成学习(ada-boost)。
 
@@ -56,6 +56,12 @@ $y=argmax_{ck}P(Y=c_k)\prod_{j=1}P(X=x_j|Y=c_k)$
 ## 3 典型应用
 
 朴素贝叶斯(Naive Bayesian, NB)在概率学、逻辑学和心理学领域的研究和实践中应用广泛，用于解决根据不确定性信息作出推理和决策需要对各种结论的概率作出估计。贝叶斯推理的问题是条件概率推理问题，这一领域的探讨对揭示人们对概率信息的认知加工过程与规律、指导人们进行有效的学习和判断决策都具有十分重要的理论意义和实践意义。
+
+## 系列文章
+
+- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
+- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 ## 参考资料
 

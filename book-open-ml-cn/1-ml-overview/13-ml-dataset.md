@@ -1,6 +1,6 @@
-# ML-13:机器学习常见数据集
+# 机器学习-13:机器学习常见数据集
 
-> 一起创作,Come on!!! [简练而全面的开源ML&AI电子书](https://github.com/media-tm/MTOpenML)
+> [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 ## 1 图像数据集
 
@@ -31,6 +31,12 @@ IVC数据库包含图像质量评价和视频质量评价数据库。IVC数据�
 
 - [Amazon公开数据集](http://aws.amazon.com/datasets)
 - [100多个有趣的数据集-CSDN](http://www.csdn.net/article/2014-06-06/2820111-100-Interesting-Data-Sets-for-Statistics)
+
+## 系列文章
+
+- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
+- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 ## 参考文献
 
