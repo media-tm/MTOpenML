@@ -1,9 +1,11 @@
 
-# [MTOpenML](https://github.com/MTMediaDev/MTOpenML) ML Principle Case and Outlook.
+# 机器学习&深度学习原理与实践(开源图书)
 
-## 1 About MTOpenML
+## 1 写作目标
 
-## 2 Book Content Planning
+> 告别碎片阅读，构成知识谱系。一起阅读和完善: [机器学习&深度学习原理与实践(开源图书)](https://github.com/media-tm/MTOpenML)
+
+## 2 写作计划
 
 ### 2.1 机器学习原理与实践
 
@@ -25,25 +27,25 @@
 |:----:|:----|:----:|:----:|
 | 80%-writing | [1 人工智能简史](book-open-ai-cn/1-ai-overview/README.md) | Martin.Cheng | ☆ |
 | 80%-planning | [2 人工智能的理论基础](book-open-ai-cn/2-ai-basic/README.md) | Martin.Cheng | ☆ |
-| 80%-planning | [3 基础AI算法](book-open-ai-cn/3-ai-basic-level/README.md) | Martin.Cheng | ☆ |
-| 10%-planning | [4 高级AI算法](book-open-ai-cn/4-ai-high-level/README.md) | Martin.Cheng | ☆ |
-| 10%-planning | [5 AI的高级话题](book-open-ai-cn/5-ai-pro-topic/README.md) | Martin.Cheng | ☆ |
-| 20%-planning | [6 高级MxNet案例](book-open-ai-cn/6-ai-mxnet/README.md) | Martin.Cheng | ☆ |
-| 10%-planning | [7 高级Tensorflow案例](book-open-ai-cn/7-ai-tf/README.md) | Martin.Cheng | ☆ |
-| 90%-planning | [8 AI未来已来](book-open-ai-cn/8-ai-cross-war/README.md) | Martin.Cheng | ☆ |
+| 40%-planning | [3 从感知机到深度卷积神经网络](book-open-ai-cn/3-ai-basic-level/README.md) | Martin.Cheng | ☆ |
+| 30%-planning | [4 深度循环和深度递归神经网络](book-open-ai-cn/4-ai-recurrent-recursive/README.md) | Martin.Cheng | ☆ |
+| 30%-planning | [5 自编码网络和生成式对抗网络](book-open-ai-cn/5-ai-self-decode-gan/README.md) | Martin.Cheng | ☆ |
+| 10%-planning | [6 高级深度学习网络模型](book-open-ai-cn/6-ai-advanced-net/README.md) | Martin.Cheng | ☆ |
+| 10%-planning | [7 深度学习案例(Tensorflow/MXNet)](book-open-ai-cn/7-ai-eg-mxnet-tf/README.md) | Martin.Cheng | ☆ |
+| 90%-planning | [8 人工智能未来已来](book-open-ai-cn/8-ai-cross-war/README.md) | Martin.Cheng | ☆ |
 
-## 3 Writing Plan
+## 3 写作计划
 
 Expecting You to Jion and Writing Together  
 Teamworker --> Upload Draft Paper  --> Doulbe Check --> Formal Paper -->  Teamworker  
 Teamworker --> Upload Formal Paper --> Update Schedule and Author --> Merge to Master Branch  
 
-## 4 Contact Details
+## 4 联系方式
 
 * shareviews@sina.com
 * martin.cheng@rock-chips.com
 
-## 5 Copy Right
+## 5 版权
 
 * Open Source Licenses:Apache, MIT
 * Copyright(R) 2017 Martin.Cheng and all Participators.
