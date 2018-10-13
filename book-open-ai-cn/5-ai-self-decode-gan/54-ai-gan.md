@@ -1,5 +1,7 @@
 # 深度学习-52:生成式对抗网络GAN(原理、模型和演进)
 
+> [CSDN专栏: 机机器学习原理与实践](https://blog.csdn.net/column/details/27839.html)
+
 一般的学习模型都是基于一个假设的随机分布，然后通过训练真实数据来拟合出模型。网络模型复杂并且数据集规模也不小，这种方法简直就是凭借天生蛮力解决问题。Goodfellow认为正确使用数据的方式，先对数据集的特征信息有insight之后，再干活。在2014年，Goodfellow等提出生成式对抗网络GAN(Generative adversarial networks)。
 
 Goodfellow的原始论文，请参考:[Generative Adversarial Networks(GAN)](https://arxiv.org/abs/1406.2661)。
@@ -116,13 +118,22 @@ BEGAN和其他GAN不一样，这里的D使用的是auto-encoder结构，D的输�
 - [Goodfellow论文中的GANs实现](https://github.com/goodfeli/adversarial)
 - [基于MNIST数据集构建GANs模型来生成手写数字](https://github.com/Maxwell-Hu/deep_learning/tree/master/gans_on_mnist)
 
+## 系列文章
+
+- [CSDN专栏: 机器学习理论与实践(开源图书)](https://blog.csdn.net/column/details/27839.html)
+- [CSDN专栏: 深度学习理论与实践(开源图书)](https://blog.csdn.net/column/details/27839.html)
+- [Github: 机器学习&深度学习理论与实践(开源图书)](https://github.com/media-tm/MTOpenML)
+
 ## 参考文献
 
-- [Generative Adversarial Networks(GAN)](https://arxiv.org/abs/1406.2661);
-- [Conditional Generative Adversarial Nets(CGAN)](https://arxiv.org/pdf/1411.1784);
-- [Deep Convolutional Generative Adversarial Nets(DCGAN)](http://arxiv.org/abs/1511.06434);
-- [Wasserstein GAN(WGAN)](https://arxiv.org/abs/1701.07875);
-- [Improved Training of Wasserstein GANs(WGAN-GP)](https://arxiv.org/abs/1704.00028)
-- [Least Squares Generative Adversarial Networks(LSGAN)](https://arxiv.org/abs/1611.04076);
-- [Boundary Equilibrium GANs(BEGAN)](https://arxiv.org/abs/1703.10717);
-- [Are GANs Created Equal? A Large-Scale Study(Google)](https://arxiv.org/abs/1711.10337)
+- [1] [Generative Adversarial Networks(GAN)](https://arxiv.org/abs/1406.2661);
+- [2] [Conditional Generative Adversarial Nets(CGAN)](https://arxiv.org/pdf/1411.1784);
+- [3] [Deep Convolutional GANs(DCGAN)](http://arxiv.org/abs/1511.06434);
+- [4] [Wasserstein GAN(WGAN)](https://arxiv.org/abs/1701.07875);
+- [5] [Improved Training of Wasserstein GANs(WGAN-GP)](https://arxiv.org/abs/1704.00028)
+- [6] [Least Squares GANs(LSGAN)](https://arxiv.org/abs/1611.04076);
+- [7] [Boundary Equilibrium GANs(BEGAN)](https://arxiv.org/abs/1703.10717);
+- [8] [Are GANs Created Equal? A Large-Scale Study(Google)](https://arxiv.org/abs/1711.10337)
+- [9] Ian Goodfellow, Yoshua Bengio. [Deep Learning](http://www.deeplearningbook.org/). MIT Press. 2016.
+- [10] 焦李成等. 深度学习、优化与识别. 清华大学出版社. 2017.
+- [11] 佩德罗·多明戈斯. 终极算法-机器学习和人工智能如何重塑世界. 中信出版社. 2018.
