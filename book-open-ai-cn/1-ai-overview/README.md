@@ -1,19 +1,21 @@
-# MTOpenML
+# 深度学习原理与实践(开源图书)
 
-## 1 About MTOpenML
+> [CSDN专栏: 深度学习原理与实践(开源图书)](https://blog.csdn.net/column/details/27839.html)
 
-[MTOpenML](https://github.com/MTMediaDev/MTOpenML) is OpenSource Ebook for  Machine Learning and Artificial Intelligence
+深度学习理论的突破和深度学习硬件加速能力的突破，使AI在模式识别、无人驾驶、智力游戏领域取得空前的成功。学术界和工业界全力以赴掀起人工智能的新一轮热潮。各大互联网巨头纷纷成立人工智能研究中心，唯恐在新一轮人工智能的竞赛被无情淘汰。深度学习应用已遍及人工智能的各个分支，如专家系统、自动推理、自然语言理解、模式识别、计算机视觉、智能机器人等领域。但也许我们不曾想到的事机器学习乃至人工智能的起源，是对人本身的意识、自我、心灵等哲学问题的探索。而在发展的过程中，更是融合了统计学、神经科学、信息论、控制论、计算复杂性理论等学科的知识。
 
-## 2 Book Content Planning
+> 告别碎片阅读，构成知识谱系。一起阅读和完善: [深度学习原理与实践(开源图书)](https://github.com/media-tm/MTOpenML)
+
+## 本章内容
 
 第1章: 人工智能简史
 
-* [1.0 人工智能简史](../../book-open-ai-cn/1-ai-overview/10-ai-overview.md)
-* [1.1 生物神经网络综述](../../book-open-ai-cn/1-ai-overview/11-ai-bnn.md)
-* [1.2 人工智能模型](../../book-open-ai-cn/1-ai-overview/12-ai-model.md)
-* [1.3 人工智能数据集](../../book-open-ai-cn/1-ai-overview/13-ai-dataset.md)
-* [1.4 人工智能开源项目](../../book-open-ai-cn/1-ai-overview/14-ai-open-source.md)
+- [1.0 人工智能简史](./10-ai-overview.md)
+- [1.1 生物神经网络综述](./11-ai-bnn.md)
+- [1.2 人工智能模型](./12-ai-model.md)
+- [1.3 人工智能数据集](./13-ai-dataset.md)
+- [1.4 人工智能开源项目](./14-ai-open-source.md)
 
-## 3 Writing Plan
+## 协作计划
 
-Expecting You to Jion and Writing Together
+> 告别碎片阅读，构成知识谱系。一起阅读和完善: [深度学习原理与实践(开源图书)](https://github.com/media-tm/MTOpenML)

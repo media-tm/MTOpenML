@@ -1,19 +1,21 @@
-# MTOpenML
+# 深度学习原理与实践(开源图书)
 
-## 1 About MTOpenML
+> [CSDN专栏: 深度学习原理与实践(开源图书)](https://blog.csdn.net/column/details/27839.html)
 
-[MTOpenML](https://github.com/MTMediaDev/MTOpenML) is OpenSource Ebook for  Machine Learning and Artificial Intelligence
+深度学习理论的突破和深度学习硬件加速能力的突破，使AI在模式识别、无人驾驶、智力游戏领域取得空前的成功。学术界和工业界全力以赴掀起人工智能的新一轮热潮。各大互联网巨头纷纷成立人工智能研究中心，唯恐在新一轮人工智能的竞赛被无情淘汰。深度学习应用已遍及人工智能的各个分支，如专家系统、自动推理、自然语言理解、模式识别、计算机视觉、智能机器人等领域。但也许我们不曾想到的事机器学习乃至人工智能的起源，是对人本身的意识、自我、心灵等哲学问题的探索。而在发展的过程中，更是融合了统计学、神经科学、信息论、控制论、计算复杂性理论等学科的知识。
 
-## 2 Book Content Planning
+> 告别碎片阅读，构成知识谱系。一起阅读和完善: [深度学习原理与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
-Chapter 2: Theory Basis of Artificial Intelligence
+## 本章内容
 
-* [2.0 神经科学、脑科学和稀疏特性](../../book-open-ai-cn/2-ai-basic/20-ai-basic-theory.md)
-* [2.1 概率论基础](../../book-open-ai-cn/2-ai-basic/21-ai-probability-theory.md)
-* [2.2 信息论和信息熵](../../book-open-ai-cn/2-ai-basic/22-ai-info-theory.md)
-* [2.3 矩阵理论(L0/L1/L2范数)](../../book-open-ai-cn/2-ai-basic/23-ai-matrix.md)
-* [2.4 数值计算、梯度下降和最小二乘法](../../book-open-ai-cn/2-ai-basic/24-ai-numerical-calculation.md)
+第2章 人工智能的理论基础
 
-## 3 Writing Plan
+- [2.0 神经科学、脑科学和稀疏特性](./20-ai-basic-theory.md)
+- [2.1 概率论基础](./21-ai-probability-theory.md)
+- [2.2 信息论和信息熵](./22-ai-info-theory.md)
+- [2.3 矩阵理论(L0/L1/L2范数)](./23-ai-matrix.md)
+- [2.4 数值计算、梯度下降和最小二乘法](./24-ai-numerical-calculation.md)
 
-Expecting You to Jion and Writing Together
+## 协作计划
+
+> 告别碎片阅读，构成知识谱系。一起阅读和完善: [深度学习原理与实践(开源图书)](https://github.com/media-tm/MTOpenML)

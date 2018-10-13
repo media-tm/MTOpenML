@@ -1,4 +1,4 @@
-# General AI
+# 深度学习-54:通用人工智能,Singularity‎
 
 ## OpenAI组织
 
@@ -61,6 +61,12 @@ AGI的实现需要新理论、新模型和新技术。当前主流AI基本上延
 即使AGI已然实现，也不会导致一个奇点出现，以至于智能计算机系统变得完全无法理解、不可预知和无法控制。相反，AGI的实现意味着智能本质已为人所悉，这将进一步引导人们使用AGI来满足人类的价值和需求。
 
 AGI的研究还处于初期，因此各方高见皆有价值。但正所谓“大川归道，百宝万货”，为了取得一个最低共识有必要澄清基本问题，以便避免驴唇不对马嘴的情况出现。
+
+## 系列文章
+
+- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
+- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
 
 ## 参考文献
 

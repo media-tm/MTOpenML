@@ -1,4 +1,4 @@
-# Deep Neural Network(DNN)
+# 深度学习-34: 深度卷积神经网络(DCNN)
 
 ## 1 LeNet5
 

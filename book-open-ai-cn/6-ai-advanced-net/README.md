@@ -8,16 +8,12 @@
 
 ## 本章内容
 
-第8章 人工智能未来已来
+第6章 高级深度学习网络模型
 
-- [8.0 展望深度学习的未来](./80-ai-future.md)
-- [8.1 游戏中的人工智能](./81-ai-game.md)
-- [8.2 计算机AI视觉](./82-ai-cv.md)
-- [8.3 金融科技公司](./83-ai-finance.md)
-- [8.4 自动驾驶技术(L0-L5级别)](./84-ai-pilot.md)
-- [8.5 智慧地球/智慧城市/智慧家庭](./86-smart-earth.md)
-- [8.6 深度学习的降维攻击及流派](./80-ai-cross-war.md)
-- [8.7:通用人工智能,Singularity‎](https://)
+- [深度学习-61:深度融合网络](./61-ai-fusion-net.md)
+- [深度学习-62:深度稀疏网络](./62-ai-sparse-net.md)
+- [深度学习-63:强化学习和AlphaGo](./63-ai-reinforced-learning.md)
+- [深度学习-64:胶囊网络(Capsules)](./64-ai-capsules-theory.md)
 
 ## 协作计划
 

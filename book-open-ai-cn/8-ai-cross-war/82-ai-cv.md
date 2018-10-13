@@ -1,4 +1,4 @@
-# 深度学习-82:计算机AI视觉
+# 深度学习-82:OpenCV与深度学习
 
 > [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
 
