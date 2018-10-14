@@ -1,6 +1,6 @@
 # 机器学习-10:机器学习简史
 
-> [机器学习原理与实践(图书目录)](https://blog.csdn.net/shareviews/article/details/83030331)
+> [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
 
 人类社会和自然界每时每刻都会生产大量数据，数据即信息，如果有效利用这些信息和数据，如何根据个体和机构的特定需求从海量数据中建立模型或发现有用的知识？ 现在我们有了足够的基础设施收集数据和处理数据的能力，诸如：物联网、全球导航系统、互联网、工业互联网、电信网络、移动通信网络、传感器网络、云计算、超级计算机集群。从海量数据中建立模型或发现有用的知识才能将数据矿藏变成真实的知识财富，而挖矿的工具就是机器学习。
 
@@ -66,9 +66,9 @@
 
 ## 系列文章
 
-- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
-- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
-- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+- [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
+- [Github: 机器学习&深度学习理论与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 ## 参考文献
 

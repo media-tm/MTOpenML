@@ -1,6 +1,6 @@
 # 机器学习-71:初探机器学习的数据集(含sklearn源码)
 
-> [机器学习原理与实践(图书目录)](https://blog.csdn.net/shareviews/article/details/83030331)
+> [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
 
 ## 1 鸢尾花(iris)数据集-机器学习的helloworld
 
@@ -67,9 +67,9 @@ plt.show()
 
 ## 系列文章
 
-- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
-- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
-- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+- [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
+- [Github: 机器学习&深度学习理论与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 ## 参考资料
 

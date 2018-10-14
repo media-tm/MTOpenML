@@ -1,11 +1,8 @@
 # 机器学习原理与实践(开源图书)-总目录
 
-> [CSDN专栏: 机器学习原理与实践(开源图书)](https://blog.csdn.net/column/details/27839.html)</br>
-> [CSDN专栏: 深度学习原理与实践(开源图书)](https://blog.csdn.net/column/details/27839.html)
-
 现在我们有了足够的基础设施收集数据和处理数据的能力，诸如：物联网、全球导航系统、互联网、工业互联网、电信网络、移动通信网络、传感器网络、云计算、超级计算机集群。从海量数据中建立模型或发现有用的知识才能将数据矿藏变成真实的知识财富，而挖矿的工具就是机器学习。
 
-> 一起阅读和完善: [机器学习&深度学习原理与实践(开源图书)](https://github.com/media-tm/MTOpenML)。告别碎片阅读，构成知识谱系。
+> 加入我们，一起阅读和完善: [机器学习&深度学习原理与实践(开源图书)](https://github.com/media-tm/MTOpenML)。告别碎片阅读，构成知识谱系。
 
 ## 第1章 机器学习概述
 
@@ -77,10 +74,12 @@
 - 机器学习-91:隐马尔科夫模型(Hidden Markov Model)
 - 机器学习-92:遗传算法(理论&实践&多图)
 
-## 相关文章
+> [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
 
-- [CSDN专栏: 机器学习理论与实践(开源图书)](https://blog.csdn.net/column/details/27839.html)
-- [CSDN专栏: 深度学习理论与实践(开源图书)](https://blog.csdn.net/column/details/27839.html)
+## 系列文章
+
+- [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
+- [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
 - [Github: 机器学习&深度学习理论与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 ## 参考资料

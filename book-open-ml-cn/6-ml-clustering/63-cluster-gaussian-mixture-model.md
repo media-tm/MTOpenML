@@ -1,6 +1,6 @@
 # 机器学习-63:混合高斯模型(Gaussian Mixture Model)聚类算法
 
-> [机器学习原理与实践(图书目录)](https://blog.csdn.net/shareviews/article/details/83030331)
+> [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
 
 机器学习分为监督学习、无监督学习和半监督学习(强化学习)。无监督学习最常应用的场景是聚类(clustering)和降维(dimension reduction)。聚类算法包括：K均值聚类(K-Means)、层次聚类(Hierarchical Clustering)和混合高斯模型(Gaussian Mixture Model)。降维算法包括：主成因分析(Principal Component Analysis)和线性判别分析(Linear Discriminant Analysis)。
 
@@ -43,9 +43,9 @@
 
 ## 系列文章
 
-- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
-- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
-- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+- [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
+- [Github: 机器学习&深度学习理论与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 ## 参考资料
 

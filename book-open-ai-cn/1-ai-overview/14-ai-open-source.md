@@ -1,6 +1,6 @@
 # 深度学习-14：知名的深度学习开源架构和项目
 
-> [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
+> [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
 
 人工智能artificial intelligence，AI是科技研究中最热门的方向之一。像IBM、谷歌、微软、Facebook 和亚马逊等公司都在研发上投入大量的资金、或者收购那些在机器学习、神经网络、自然语言和图像处理等领域取得了进展的初创公司。考虑到人们对此感兴趣的程度，我们将不会惊讶于斯坦福的专家在人工智能报告中得出的结论：“越来越强大的人工智能应用，可能会对我们的社会和经济产生深远的积极影响，这将出现在从现在到 2030 年的时间段里。”
 
@@ -68,8 +68,9 @@ MXNet支持的高级特性：
 
 ## 系列文章
 
-- [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
-- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
+- [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+- [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
+- [Github: 机器学习&深度学习理论与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 ## 参考文献
 

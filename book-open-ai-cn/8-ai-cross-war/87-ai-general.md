@@ -1,5 +1,7 @@
 # 深度学习-54:通用人工智能,Singularity‎
 
+> [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+
 ## OpenAI组织
 
 OpenAI的使命是确保通用人工智能 (Artificial General Intelligence, AGI)，即一种高度自主且在大多数具有经济价值的工作上超越人类的系统，将为全人类带来福祉。我们不仅希望直接建造出安全的、符合共同利益的通用人工智能，而且愿意帮助其它研究机构共同建造出这样的通用人工智能以达成我们的使命。为了达到这个目标，我们制订了如下原则：
@@ -64,8 +66,8 @@ AGI的研究还处于初期，因此各方高见皆有价值。但正所谓“�
 
 ## 系列文章
 
-- [CSDN专栏: 机器学习理论与实践(开源图书)](https://blog.csdn.net/column/details/27839.html)
-- [CSDN专栏: 深度学习理论与实践(开源图书)](https://blog.csdn.net/column/details/27839.html)
+- [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+- [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
 - [Github: 机器学习&深度学习理论与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 ## 参考文献

@@ -1,6 +1,6 @@
 # 机器学习-12:机器学习的通用流程
 
-> [机器学习原理与实践(图书目录)](https://blog.csdn.net/shareviews/article/details/83030331)
+> [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
 
 机器学习的通用流程包括：采集原始数据，原始数据来自若干种数据源；清洗数据，清洗数据的目标是将原始数据转换成目标系统的数据并存储；机器学习处理输入数据并输出机器学习决策；机器学习决策输出到外部系统，外部系统做进一步的显示、控制、反馈或通知等链式关联操作。
 
@@ -59,9 +59,9 @@
 
 ## 系列文章
 
-- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
-- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
-- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+- [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
+- [Github: 机器学习&深度学习理论与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 ## 参考文献
 

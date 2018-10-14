@@ -1,6 +1,6 @@
 # 机器学习-75:机器学习的特征工程实战(含sklearn源码)
 
-> [机器学习原理与实践(图书目录)](https://blog.csdn.net/shareviews/article/details/83030331)
+> [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
 
 sklearn提供了丰富的特征工程库，特征工程包含:特征预处理、特征降维和特征选择。sklearn的sklearn.preprocessing库支持特征预处理；sklearn的sklearn.decomposition/sklearn.lda库库支持特征降维；sklearn的sklearn.feature_selection库来进行特征选择。
 
@@ -252,9 +252,9 @@ LDA(n_components=2).fit_transform(iris.data, iris.target)
 
 ## 系列文章
 
-- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
-- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
-- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+- [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
+- [Github: 机器学习&深度学习理论与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 ## 参考资料
 

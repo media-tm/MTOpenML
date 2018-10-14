@@ -1,5 +1,7 @@
 # 深度学习-53:胶囊网络(Capsules)
 
+> [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+
 DenseNet 的主要构建模块是稠密块和过渡块，前者定义了输入和输出是如何合并的，后者则用来控制通道数不要过大。
 
 ## 1 Capsules的创新
@@ -14,9 +16,9 @@ DenseNet 的主要构建模块是稠密块和过渡块，前者定义了输入�
 
 ## 系列文章
 
-- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
-- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
-- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+- [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
+- [Github: 机器学习&深度学习理论与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 ## 参考文献(Free Digging)
 

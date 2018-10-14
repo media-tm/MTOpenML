@@ -1,6 +1,6 @@
 # 深度学习-83:金融科技公司
 
-> [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
+> [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
 
 当今金融逐渐IT化，而科技公司也走向了金融化。百度、阿里巴巴、腾讯和京东纷纷难道金融牌照，纷纷发力个人消费金融市场。他们一方面科技能力输出，赋力各行各业，一方面发力发展金融业务。当前科技优势往往具有高纬度打击能力，任何传统公司任何传统行业在科技企业面前不堪一击。这种背景下任何具有标准业务的公司均可能分分钟替代；科技公司逐渐金融化，攻城略地；金融公司也纷纷转型，投资IT业务，巩固自己的护城河。这背后的逻辑是什么？ 细思极恐。
 
@@ -63,8 +63,8 @@
 
 ## 系列文章
 
-- [CSDN专栏: 机器学习理论与实践(开源图书)](https://blog.csdn.net/column/details/27839.html)
-- [CSDN专栏: 深度学习理论与实践(开源图书)](https://blog.csdn.net/column/details/27839.html)
+- [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+- [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
 - [Github: 机器学习&深度学习理论与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 ## 参考文献

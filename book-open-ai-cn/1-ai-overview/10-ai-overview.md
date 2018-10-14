@@ -1,6 +1,6 @@
 # 深度学习-10：人工智能简史及三剑客
 
-> [CSDN专栏: 机机器学习原理与实践](https://blog.csdn.net/column/details/27839.html)
+> [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
 
 ## 1 人工智能简史
 
@@ -175,6 +175,10 @@ Bengio是深度学习领域的架构师，为深度学习社区设计了很多�
 - Yoshua Bengio于2016年提出GAN
 
 ## 系列文章
+
+- [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+- [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
+- [Github: 机器学习&深度学习理论与实践(开源图书)](https://github.com/media-tm/MTOpenML)## 系列文章
 
 - [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
 - [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)

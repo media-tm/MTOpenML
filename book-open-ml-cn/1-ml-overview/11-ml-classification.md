@@ -1,6 +1,6 @@
 # 机器学习-11:机器学习的分类
 
-> [机器学习原理与实践(图书目录)](https://blog.csdn.net/shareviews/article/details/83030331)
+> [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
 
 根据不同的概念和意图可以将机器学习算法分成若干类别。本文主要按照学习形式分类、任务目标分类和学习策略的不同分类。我们试图对机器学习算法进行分类，分类的目的在于找到机器学习算法的共性、个性和适用边界。方便我们针对特定的问题域快速评估出可行的解决方案。
 
@@ -58,9 +58,9 @@
 
 ## 系列文章
 
-- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
-- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
-- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+- [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
+- [Github: 机器学习&深度学习理论与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 ## 参考文献
 

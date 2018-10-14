@@ -1,5 +1,7 @@
 # 深度学习-43:长短时记忆神经网络(LSTM)
 
+> [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+
 长短时记忆神经网络(Long Short-term Memory Networks,LSTM)是一种 RNN 特殊的类型，可以学习长期依赖信息。LSTM 由 Hochreiter & Schmidhuber (1997) 提出，并在近期被 Alex Graves 进行了改良和推广。STM 通过刻意的设计来避免长期依赖问题。记住长期的信息在实践中是 LSTM 的默认行为，而非需要付出很大代价才能获得的能力！
 
 由于独特的设计结构，LSTM特别适合于处理时序间隔和延迟非常长的任务，作为非线性模型，LSTM非常适合于构造更大型深度神经网络。
@@ -74,6 +76,7 @@ LSTM的参数训练算法，依然是我们熟悉的反向传播算法。对于�
 
 这里我们简单地来看看在tensorflow中是如何实现使用RNN来完成具体的任务的。示例中，使用了著名的MNIST Data数据集，采用所构建的RNN来进行分类。
 
+```python
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
 # set random seed for comparing the two result calculations
@@ -153,6 +156,7 @@ with tf.Session() as sess:
             y: batch_ys,
         }))
         step += 1
+```
 
 ## 4 LSTM网络的演进
 
@@ -162,8 +166,15 @@ with tf.Session() as sess:
 - 2016年, 谷歌公司利用LSTM来做语音识别和文字翻译[7]。同年，
 - 2016年, 苹果公司使用LSTM来优化Siri应用。
 
+## 系列文章
+
+- [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+- [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
+- [Github: 机器学习&深度学习理论与实践(开源图书)](https://github.com/media-tm/MTOpenML)
+
 ## 参考文献
 
-[x] Deeply-Recursive Convolutional Network for Image Super-Resolution
-[x] Recurrent Models of Visual Attention
-[x] Convolutional Residual Memory Networks
+- [1] Ian Goodfellow, Yoshua Bengio. [Deep Learning](http://www.deeplearningbook.org/). MIT Press. 2016.
+- [2] 焦李成等. 深度学习、优化与识别. 清华大学出版社. 2017.
+- [3] 佩德罗·多明戈斯. 终极算法-机器学习和人工智能如何重塑世界. 中信出版社. 2018.
+- [4] 雷.库兹韦尔. 人工智能的未来-揭示人类思维的奥秘.  浙江人民出版社. 2016.

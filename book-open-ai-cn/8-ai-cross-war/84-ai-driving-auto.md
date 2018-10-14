@@ -1,6 +1,6 @@
 # 深度学习-84:自动驾驶技术(L0-L5级别)
 
-> [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
+> [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
 
 人工智能在驾驶领域的应用最为深入。通过依靠人工智能、视觉计算、雷达、监控装置和全球定位系统协同合作，让电脑可以在无人类主动的操作下，自动安全进行操作。自动驾驶系统主要由环境感知、决策协同、控制执行组成。
 
@@ -97,8 +97,8 @@ SAE定义： 由无人驾驶系统完成全时驾驶操作，根据系统请求�
 
 ## 系列文章
 
-- [CSDN专栏: 机器学习理论与实践(开源图书)](https://blog.csdn.net/column/details/27839.html)
-- [CSDN专栏: 深度学习理论与实践(开源图书)](https://blog.csdn.net/column/details/27839.html)
+- [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+- [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
 - [Github: 机器学习&深度学习理论与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 ## 参考文献

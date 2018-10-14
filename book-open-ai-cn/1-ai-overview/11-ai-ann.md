@@ -1,6 +1,6 @@
 # 深度学习-11：神经元、神经网络、人脑和卷积神网络
 
-> [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
+> [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
 
 在生物神经网络中，学习源自于大脑中无数神经元之间的连接。大脑接触到新的刺激后，这些神经元之间的连接改变了配置。这些更改包括出现新的连接，加强现有连接和删除那些没有使用的连接。例如，重复给定任务的次数越多，与这个任务相关的神经连接就越强，最终我们会认为这个任务被学会了。
 
@@ -141,9 +141,9 @@ Audience已经研究出商用技术，这种技术可以有效的去除会话中
 
 ## 系列文章
 
-- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
-- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
-- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+- [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
+- [Github: 机器学习&深度学习理论与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 ## 参考文献
 

@@ -1,6 +1,6 @@
 # 机器学习-20:人工智能的理论基础
 
-> [机器学习原理与实践(图书目录)](https://blog.csdn.net/shareviews/article/details/83030331)
+> [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
 
 第二次世界大战之后，美苏在全维度展开了霸权竞赛，人工智能研究伴随着计算机的发展也开始进入佳境。经过经过半个多世纪的发展，人工智能逐渐形成:符号学派、贝叶斯学派和联结学派三个流派。  
 **符号学派**:以谓词逻辑表示法理论为基础的符号主义占据了绝对的主流，但是到了上世纪90年代，符号主义具有的先天缺陷开始暴露出来(没有自我学习能力)。  
@@ -60,9 +60,9 @@ Frank S.Werblin认为“尽管我们认为自己看透了世界，但是我们�
 
 ## 系列文章
 
-- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
-- [CSDN专栏: 机器学习理论与实践](https://blog.csdn.net/column/details/27839.html)
-- [CSDN专栏: 深度学习理论与实践](https://blog.csdn.net/column/details/27839.html)
+- [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+- [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
+- [Github: 机器学习&深度学习理论与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 ## 参考文献
 

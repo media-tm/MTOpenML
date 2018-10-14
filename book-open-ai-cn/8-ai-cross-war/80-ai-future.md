@@ -1,6 +1,6 @@
 # 深度学习-50:展望深度学习的未来
 
-> [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
+> [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
 
 由于算力和理论的突破，卷积神经网络(Convolutional Neural Networks)在很多领域开花结果。本章介绍相关领域进展。
 
@@ -82,8 +82,8 @@ Siri，Alexa，Google Assistant和Cortana，由最大的几家技术公司开发
 
 ## 系列文章
 
-- [CSDN专栏: 机器学习理论与实践(开源图书)](https://blog.csdn.net/column/details/27839.html)
-- [CSDN专栏: 深度学习理论与实践(开源图书)](https://blog.csdn.net/column/details/27839.html)
+- [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+- [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
 - [Github: 机器学习&深度学习理论与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 ## 参考文献

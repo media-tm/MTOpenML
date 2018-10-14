@@ -1,6 +1,6 @@
 # 深度学习-21:概率论基础
 
-> [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
+> [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
 
 本章讨论概率论，在机器学习或人工智能领域中，智能系统往往需要处理不确定性或随机数据。我们需要借助概率论，从不确定性关系中寻找确定性规律，为我们在不确定性存在的情况下进行推理提供了工具集。在人工智能领域，概率论提供了系统方法能够指导AI系统如何推理，也能从理论上辅助我们分析AI系统的行为。
 
@@ -76,8 +76,9 @@ $$P(x|y) = \frac{P(x) P(y|x)}{P(y)}$$
 
 ## 系列文章
 
-- [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
-- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
+- [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+- [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
+- [Github: 机器学习&深度学习理论与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 ## 参考文献
 

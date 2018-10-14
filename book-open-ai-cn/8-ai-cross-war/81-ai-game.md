@@ -1,6 +1,6 @@
 # 深度学习-81:游戏中的人工智能
 
-> [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
+> [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
 
 人工智能模块一直是游戏设计的核心，人工智能模块能够能够让软件游戏更加灵动而让用户无比兴奋。最早的让人工智能的深度优先和广度优先算法融入游戏就一发不可收拾，各种游戏模块均被智能化改造，让软件游戏具有了弱智能的特性。伴随着深度学习技术的成熟，游戏世界又一次迎来了人工智能应用的高潮。
 
@@ -61,8 +61,8 @@
 
 ## 系列文章
 
-- [CSDN专栏: 机器学习理论与实践(开源图书)](https://blog.csdn.net/column/details/27839.html)
-- [CSDN专栏: 深度学习理论与实践(开源图书)](https://blog.csdn.net/column/details/27839.html)
+- [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+- [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
 - [Github: 机器学习&深度学习理论与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 ## 参考文献

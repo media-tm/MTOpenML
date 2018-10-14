@@ -1,6 +1,6 @@
 # 深度学习-82:OpenCV与深度学习
 
-> [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
+> [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
 
 随着机器学习，计算机视觉和计算能力的日益成熟，计算机视觉被广泛应用于人机互动、物体识别、图像分割、人脸识别、动作识别、运动跟踪、机器人、运动分析、机器视觉、结构分析和汽车安全驾驶等。计算机视觉伴随着比较多的推理型和场景分析型的视觉任务，大量机器学习算法被引入计算机视觉；最近10年，神经网络和深度学习发展迅猛，也被纳入了计算机视觉分析的工具箱。本节以应用最广的OpenCV框架，宏观观察一下人工智能(AI)给计算机视觉带来的革命性变化。
 
@@ -42,8 +42,8 @@
 
 ## 系列文章
 
-- [CSDN专栏: 机器学习理论与实践(开源图书)](https://blog.csdn.net/column/details/27839.html)
-- [CSDN专栏: 深度学习理论与实践(开源图书)](https://blog.csdn.net/column/details/27839.html)
+- [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+- [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
 - [Github: 机器学习&深度学习理论与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 ## 参考文献

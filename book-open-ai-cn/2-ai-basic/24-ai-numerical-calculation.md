@@ -1,6 +1,6 @@
 # 深度学习-24:数值计算、梯度下降和最小二乘法
 
-> [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
+> [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
 
 机器学习或人工智能中会使用大量的数值计算，使用迭代算法计算估计值来解决既定约束的数学问题，而非使用严格的解析过程推导出公式来解决数据问题。
 
@@ -20,8 +20,9 @@ $$f(x)=1/2||Ax-b||_2^2$$
 
 ## 系列文章
 
-- [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
-- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
+- [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+- [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
+- [Github: 机器学习&深度学习理论与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 
 ## 参考文献
 

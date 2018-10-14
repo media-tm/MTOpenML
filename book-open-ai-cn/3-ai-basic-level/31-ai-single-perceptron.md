@@ -1,6 +1,6 @@
 # 深度学习-31:单层感知机
 
-> [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
+> [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
 
 **单层感知机**和多层感知机\(MLP\)是最基础的神经网络结构。将卷积操作创新的加入到神经网络结构形成了卷积神经网络，卷积神经网络给现代人工智能注入了活力。感知机网络和卷积网络\(CNN\)都属于前馈型网络\(FeedForward Network\)。
 
@@ -52,9 +52,9 @@ $$
 
 ## 系列文章
 
-- [CSDN专栏: 机器学习&深度学习(理论/实践)](https://blog.csdn.net/column/details/27839.html)
-- [Gihutb专栏: 机器学习&深度学习(理论/实践)](https://github.com/media-tm/MTOpenML)
-
+- [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
+- [机器学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83030331)
+- [Github: 机器学习&深度学习理论与实践(开源图书)](https://github.com/media-tm/MTOpenML)
 ## 参考文献
 
 - [1] Ian Goodfellow, Yoshua Bengio. [Deep Learning](http://www.deeplearningbook.org/). MIT Press. 2016.
