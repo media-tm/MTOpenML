@@ -4,7 +4,7 @@
 
 递归神经网络(Recursive NN,RNN)通过带有树状相似的神经网络结构来递归复杂的深度网络。本质上，递归神经网络是对循环神经网络(Recurrent Neural Network)的一个有效扩展，他们具有不同的计算图。
 
-递归神经网络(Recursive NN)和循环神经网络(Recurrent NN, RNN)统称为递归神经网络(RNN)。循环神经网络(Recurrent Neural Network, RNN)属于时间递归神经网络，时间递归神经网络的神经元间连接构成矩阵; 递归神经网络(Recursive NN)属于结构递归神经网络，结构递归神经网络利用相似的神经网络结构递归构造更为复杂的深度网络。递归神经网络(RNN)无法处理随着递归，权重指数级爆炸或消失的问题(Vanishing gradient problem)，难以捕捉长期时间关联。
+递归神经网络(Recursive NN, RNN)和循环神经网络(Recurrent NN, RNN)统称为递归神经网络(RNN)。循环神经网络(Recurrent Neural Network, RNN)属于时间递归神经网络，时间递归神经网络的神经元间连接构成矩阵; 递归神经网络(Recursive NN)属于结构递归神经网络，结构递归神经网络利用相似的神经网络结构递归构造更为复杂的深度网络。递归神经网络(RNN)无法处理随着递归，权重指数级爆炸或消失的问题(Vanishing gradient problem)，难以捕捉长期时间关联。
 
 RNN通常是指循环神经网络，我们可以将递归神经网络看做是循环神经网络的一种泛化。
 
