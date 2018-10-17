@@ -58,3 +58,5 @@ sklearn.cluster.KMeans(n_clusters=8, init=’k-means++’, n_init=10, max_iter=3
 - [1] 周志华. 机器学习. 清华大学出版社. 2016.
 - [2] [日]杉山将. 图解机器学习. 人民邮电出版社. 2015.
 - [3] 佩德罗·多明戈斯. 终极算法-机器学习和人工智能如何重塑世界. 中信出版社. 2018.
+- [4] [深入理解K-Means聚类算法](https://blog.csdn.net/taoyanqi8932/article/details/53727841)
+- [5] [K-means Algorithm](http://www.cnblogs.com/jeromeblog/p/3425919.html)

@@ -56,7 +56,12 @@
 - 深度学习-63:强化学习和AlphaGo
 - 深度学习-64:胶囊网络(Capsules)
 
-## 第7章 深度学习案例(Tensorflow/MXNet)  <TODO...Waiting...>
+## 第7章 深度学习开源引擎
+
+- [深度学习-71:Tensorflow的架构、模型、可视化和案例库](https://blog.csdn.net/shareviews/article/details/83094558)
+- [深度学习-72:PyTorch的架构、模型、可视化和案例库](https://blog.csdn.net/shareviews/article/details/83094783)
+- 深度学习-73:MxNet的架构、模型、可视化和案例库
+- [深度学习-74:Keras的架构、模型、可视化和案例库](https://blog.csdn.net/shareviews/article/details/83094840)
 
 ## 第8章 人工智能未来已来
 
