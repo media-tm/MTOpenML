@@ -14,7 +14,7 @@
 - [3.1 单层感知机](./31-ai-single-perceptron.md)
 - [3.2 多层感知机](./32-ai-multi-perceptron.md)
 - [3.3 卷积神经网络(CNN)](./33-ai-cnn.md)
-- [3.4 深度卷积神经网络(DCNN)](./34-ai-deep-cnn.md)
+- [3.4 深度卷积神经网络(DCNN)的模型和演进](./34-ai-deep-cnn.md)
 - [3.5 LeNet](./35-ai-lenet.md)
 - [3.6 AlexNet](./36-ai-alexnet.md)
 - [3.7 Inception](./37-ai-inception.md)

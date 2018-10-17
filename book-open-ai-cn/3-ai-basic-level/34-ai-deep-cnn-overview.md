@@ -1,8 +1,8 @@
-# 深度学习-34: 深度卷积神经网络(DCNN)
+# 深度学习-34: 深度卷积神经网络(DCNN)的模型和演进
 
 ## 1 LeNet5
 
-**LeNet5** 诞生于1994年,是最早的卷积神经网络之一,并且推动了深度学习领域的发展。自从1988年开始,在许多次成功的迭代后,这项由 Yann LeCun完成的开拓性成果被命名为**LeNet5**(参见：Gradient-Based Learning Applied to Document Recognition)。
+**LeNet5** 诞生于1994年,是最早的卷积神经网络之一,并且推动了深度学习领域的发展。自从1998年开始,在许多次成功的迭代后,这项由 Yann LeCun完成的开拓性成果被命名为**LeNet5**(参见：Gradient-Based Learning Applied to Document Recognition)。
 
 ![image](http://static.open-open.com/lib/uploadImg/20160907/20160907100307_377.jpg)
 
@@ -86,3 +86,4 @@ Xception最小仅有91MB。
 - [5] [GoogLeNet系列解读](http://blog.csdn.net/shuzfan/article/details/50738394)  
 - [6] [GoogLeNet V1:Going deeper with convolutions](https://arxiv.org/abs/1409.4842)  
 - [7] [GoogLeNet V1:Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
+- [8] [总结近期CNN模型的发展](https://zhuanlan.zhihu.com/p/30746099?refer=startdl) 

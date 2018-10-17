@@ -17,3 +17,4 @@ AlexNet跟LeNet结构类似，但使用了更多的卷积层和更大的参数�
 ## 5 参考文献
 
 [1] Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). Imagenet classification with deep convolutional neural networks. In Advances in neural information processing systems (pp. 1097-1105).
+[5] [AlexNet原理及Tensorflow实现](https://blog.csdn.net/taoyanqi8932/article/details/71081390)
