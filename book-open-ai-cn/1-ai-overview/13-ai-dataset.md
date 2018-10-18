@@ -64,6 +64,10 @@ IVC数据库包含图像质量评价和视频质量评价数据库。IVC数据�
 - [Amazon公开数据集](http://aws.amazon.com/datasets)
 - [100多个有趣的数据集-CSDN](http://www.csdn.net/article/2014-06-06/2820111-100-Interesting-Data-Sets-for-Statistics)
 
+## 5 斯坦福大学的汽车数据集
+
+[斯坦福大学的汽车数据集](http://ai.stanford.edu/~jkrause/cars/car_dataset.html)，其中包含196,18类汽车的16,185张图像。
+
 ## 系列文章
 
 - [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)

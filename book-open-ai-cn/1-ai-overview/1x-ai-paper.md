@@ -1,4 +1,6 @@
-# 深度学习相关论文
+# 从论文角度看深度学习的历程(附地址)-v1.x
+
+> [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
 
 ## 图像分类
 
