@@ -2,7 +2,7 @@
 
 > [深度学习原理与实践(开源图书)-总目录](https://blog.csdn.net/shareviews/article/details/83040730)
 
-长短时记忆神经网络(Long Short-term Memory Networks,LSTM)是一种 RNN 特殊的类型，可以学习长期依赖信息。LSTM 由 Hochreiter & Schmidhuber (1997) 提出，并在近期被 Alex Graves 进行了改良和推广。LSTM明确旨在避免长期依赖性问题。长时间记住信息实际上是他们的默认行为，而不是他们难以学习的东西！
+长短时记忆神经网络(Long Short-term Memory Networks,LSTM)是一种 RNN 特殊的类型，可以学习长期依赖信息。LSTM 由 Hochreiter & Schmidhuber (1997) 提出，并在近期被 Alex Graves 进行了改良和推广。LSTM明确旨在避免长期依赖性问题。长时间记住信息实际上是他们的默认行为，而不是他们难以学习的东西！LSTM引入了注意力机制。注意力机制模仿了生物观察行为的内部过程，即一种将内部经验和外部感觉对齐从而增加部分区域的观察精细度的机制。注意力机制可以快速提取稀疏数据的重要特征，因而被广泛用于自然语言处理任务，特别是机器翻译。
 
 ## 1 LSTM网络的创新
 
